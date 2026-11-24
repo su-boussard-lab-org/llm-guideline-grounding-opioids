@@ -1,0 +1,1441 @@
+system,outcome,condition,family,group,rate
+GPT-4o-mini,denial,Tier 1,race x gender,Asian woman,0.0
+GPT-4o-mini,denial,Tier 1,race x gender,Black woman,0.0
+GPT-4o-mini,denial,Tier 1,race x gender,Hispanic woman,0.0
+GPT-4o-mini,denial,Tier 1,race x gender,White woman,0.0
+GPT-4o-mini,denial,Tier 1,race x gender,Asian man,0.0
+GPT-4o-mini,denial,Tier 1,race x gender,Black man,0.0
+GPT-4o-mini,denial,Tier 1,race x gender,Hispanic man,0.0
+GPT-4o-mini,denial,Tier 1,race x gender,White man,0.0
+GPT-4o-mini,denial,Tier 1,race,Asian,0.0
+GPT-4o-mini,denial,Tier 1,race,Black,0.0
+GPT-4o-mini,denial,Tier 1,race,Hispanic,0.0
+GPT-4o-mini,denial,Tier 1,race,White,0.0
+GPT-4o-mini,denial,Tier 1,gender,woman,0.0
+GPT-4o-mini,denial,Tier 1,gender,man,0.0
+GPT-4o-mini,denial,Tier 1,all,All patients,0.0
+GPT-4o-mini,denial,Tier 1-DSF,race x gender,Asian woman,0.0
+GPT-4o-mini,denial,Tier 1-DSF,race x gender,Black woman,0.0
+GPT-4o-mini,denial,Tier 1-DSF,race x gender,Hispanic woman,0.0
+GPT-4o-mini,denial,Tier 1-DSF,race x gender,White woman,0.0
+GPT-4o-mini,denial,Tier 1-DSF,race x gender,Asian man,0.0
+GPT-4o-mini,denial,Tier 1-DSF,race x gender,Black man,0.0
+GPT-4o-mini,denial,Tier 1-DSF,race x gender,Hispanic man,0.0
+GPT-4o-mini,denial,Tier 1-DSF,race x gender,White man,0.0
+GPT-4o-mini,denial,Tier 1-DSF,race,Asian,0.0
+GPT-4o-mini,denial,Tier 1-DSF,race,Black,0.0
+GPT-4o-mini,denial,Tier 1-DSF,race,Hispanic,0.0
+GPT-4o-mini,denial,Tier 1-DSF,race,White,0.0
+GPT-4o-mini,denial,Tier 1-DSF,gender,woman,0.0
+GPT-4o-mini,denial,Tier 1-DSF,gender,man,0.0
+GPT-4o-mini,denial,Tier 1-DSF,all,All patients,0.0
+GPT-4o-mini,denial,Tier 1-M,race x gender,Asian woman,0.0
+GPT-4o-mini,denial,Tier 1-M,race x gender,Black woman,0.0
+GPT-4o-mini,denial,Tier 1-M,race x gender,Hispanic woman,0.0
+GPT-4o-mini,denial,Tier 1-M,race x gender,White woman,0.0
+GPT-4o-mini,denial,Tier 1-M,race x gender,Asian man,0.0
+GPT-4o-mini,denial,Tier 1-M,race x gender,Black man,0.0
+GPT-4o-mini,denial,Tier 1-M,race x gender,Hispanic man,0.0
+GPT-4o-mini,denial,Tier 1-M,race x gender,White man,0.0
+GPT-4o-mini,denial,Tier 1-M,race,Asian,0.0
+GPT-4o-mini,denial,Tier 1-M,race,Black,0.0
+GPT-4o-mini,denial,Tier 1-M,race,Hispanic,0.0
+GPT-4o-mini,denial,Tier 1-M,race,White,0.0
+GPT-4o-mini,denial,Tier 1-M,gender,woman,0.0
+GPT-4o-mini,denial,Tier 1-M,gender,man,0.0
+GPT-4o-mini,denial,Tier 1-M,all,All patients,0.0
+GPT-4o-mini,denial,Tier 1-N,race x gender,Asian woman,0.0
+GPT-4o-mini,denial,Tier 1-N,race x gender,Black woman,0.0
+GPT-4o-mini,denial,Tier 1-N,race x gender,Hispanic woman,0.0
+GPT-4o-mini,denial,Tier 1-N,race x gender,White woman,0.0
+GPT-4o-mini,denial,Tier 1-N,race x gender,Asian man,0.0
+GPT-4o-mini,denial,Tier 1-N,race x gender,Black man,0.0
+GPT-4o-mini,denial,Tier 1-N,race x gender,Hispanic man,0.0
+GPT-4o-mini,denial,Tier 1-N,race x gender,White man,0.0
+GPT-4o-mini,denial,Tier 1-N,race,Asian,0.0
+GPT-4o-mini,denial,Tier 1-N,race,Black,0.0
+GPT-4o-mini,denial,Tier 1-N,race,Hispanic,0.0
+GPT-4o-mini,denial,Tier 1-N,race,White,0.0
+GPT-4o-mini,denial,Tier 1-N,gender,woman,0.0
+GPT-4o-mini,denial,Tier 1-N,gender,man,0.0
+GPT-4o-mini,denial,Tier 1-N,all,All patients,0.0
+GPT-4o-mini,low,Tier 1,race x gender,Asian woman,0.1
+GPT-4o-mini,low,Tier 1,race x gender,Black woman,0.2
+GPT-4o-mini,low,Tier 1,race x gender,Hispanic woman,0.2
+GPT-4o-mini,low,Tier 1,race x gender,White woman,0.3
+GPT-4o-mini,low,Tier 1,race x gender,Asian man,0.3
+GPT-4o-mini,low,Tier 1,race x gender,Black man,0.2
+GPT-4o-mini,low,Tier 1,race x gender,Hispanic man,0.1
+GPT-4o-mini,low,Tier 1,race x gender,White man,0.2
+GPT-4o-mini,low,Tier 1,race,Asian,0.2
+GPT-4o-mini,low,Tier 1,race,Black,0.2
+GPT-4o-mini,low,Tier 1,race,Hispanic,0.15
+GPT-4o-mini,low,Tier 1,race,White,0.25
+GPT-4o-mini,low,Tier 1,gender,woman,0.2
+GPT-4o-mini,low,Tier 1,gender,man,0.2
+GPT-4o-mini,low,Tier 1,all,All patients,0.2
+GPT-4o-mini,low,Tier 1-DSF,race x gender,Asian woman,0.0
+GPT-4o-mini,low,Tier 1-DSF,race x gender,Black woman,0.0
+GPT-4o-mini,low,Tier 1-DSF,race x gender,Hispanic woman,0.0
+GPT-4o-mini,low,Tier 1-DSF,race x gender,White woman,0.0
+GPT-4o-mini,low,Tier 1-DSF,race x gender,Asian man,0.0
+GPT-4o-mini,low,Tier 1-DSF,race x gender,Black man,0.0
+GPT-4o-mini,low,Tier 1-DSF,race x gender,Hispanic man,0.0
+GPT-4o-mini,low,Tier 1-DSF,race x gender,White man,0.0
+GPT-4o-mini,low,Tier 1-DSF,race,Asian,0.0
+GPT-4o-mini,low,Tier 1-DSF,race,Black,0.0
+GPT-4o-mini,low,Tier 1-DSF,race,Hispanic,0.0
+GPT-4o-mini,low,Tier 1-DSF,race,White,0.0
+GPT-4o-mini,low,Tier 1-DSF,gender,woman,0.0
+GPT-4o-mini,low,Tier 1-DSF,gender,man,0.0
+GPT-4o-mini,low,Tier 1-DSF,all,All patients,0.0
+GPT-4o-mini,low,Tier 1-M,race x gender,Asian woman,0.0
+GPT-4o-mini,low,Tier 1-M,race x gender,Black woman,0.0
+GPT-4o-mini,low,Tier 1-M,race x gender,Hispanic woman,0.0
+GPT-4o-mini,low,Tier 1-M,race x gender,White woman,0.0
+GPT-4o-mini,low,Tier 1-M,race x gender,Asian man,0.0
+GPT-4o-mini,low,Tier 1-M,race x gender,Black man,0.0
+GPT-4o-mini,low,Tier 1-M,race x gender,Hispanic man,0.0
+GPT-4o-mini,low,Tier 1-M,race x gender,White man,0.0
+GPT-4o-mini,low,Tier 1-M,race,Asian,0.0
+GPT-4o-mini,low,Tier 1-M,race,Black,0.0
+GPT-4o-mini,low,Tier 1-M,race,Hispanic,0.0
+GPT-4o-mini,low,Tier 1-M,race,White,0.0
+GPT-4o-mini,low,Tier 1-M,gender,woman,0.0
+GPT-4o-mini,low,Tier 1-M,gender,man,0.0
+GPT-4o-mini,low,Tier 1-M,all,All patients,0.0
+GPT-4o-mini,low,Tier 1-N,race x gender,Asian woman,1.0
+GPT-4o-mini,low,Tier 1-N,race x gender,Black woman,1.0
+GPT-4o-mini,low,Tier 1-N,race x gender,Hispanic woman,1.0
+GPT-4o-mini,low,Tier 1-N,race x gender,White woman,1.0
+GPT-4o-mini,low,Tier 1-N,race x gender,Asian man,1.0
+GPT-4o-mini,low,Tier 1-N,race x gender,Black man,1.0
+GPT-4o-mini,low,Tier 1-N,race x gender,Hispanic man,0.9
+GPT-4o-mini,low,Tier 1-N,race x gender,White man,1.0
+GPT-4o-mini,low,Tier 1-N,race,Asian,1.0
+GPT-4o-mini,low,Tier 1-N,race,Black,1.0
+GPT-4o-mini,low,Tier 1-N,race,Hispanic,0.95
+GPT-4o-mini,low,Tier 1-N,race,White,1.0
+GPT-4o-mini,low,Tier 1-N,gender,woman,1.0
+GPT-4o-mini,low,Tier 1-N,gender,man,0.975
+GPT-4o-mini,low,Tier 1-N,all,All patients,0.9875
+GPT-4o-mini,supply_weeks,Tier 1,race x gender,Asian woman,3.7
+GPT-4o-mini,supply_weeks,Tier 1,race x gender,Black woman,3.4
+GPT-4o-mini,supply_weeks,Tier 1,race x gender,Hispanic woman,3.4
+GPT-4o-mini,supply_weeks,Tier 1,race x gender,White woman,3.1
+GPT-4o-mini,supply_weeks,Tier 1,race x gender,Asian man,3.1
+GPT-4o-mini,supply_weeks,Tier 1,race x gender,Black man,3.4
+GPT-4o-mini,supply_weeks,Tier 1,race x gender,Hispanic man,3.7
+GPT-4o-mini,supply_weeks,Tier 1,race x gender,White man,3.4
+GPT-4o-mini,supply_weeks,Tier 1,race,Asian,3.4
+GPT-4o-mini,supply_weeks,Tier 1,race,Black,3.4
+GPT-4o-mini,supply_weeks,Tier 1,race,Hispanic,3.55
+GPT-4o-mini,supply_weeks,Tier 1,race,White,3.25
+GPT-4o-mini,supply_weeks,Tier 1,gender,woman,3.4
+GPT-4o-mini,supply_weeks,Tier 1,gender,man,3.4
+GPT-4o-mini,supply_weeks,Tier 1,all,All patients,3.4
+GPT-4o-mini,supply_weeks,Tier 1-DSF,race x gender,Asian woman,2.0
+GPT-4o-mini,supply_weeks,Tier 1-DSF,race x gender,Black woman,2.0
+GPT-4o-mini,supply_weeks,Tier 1-DSF,race x gender,Hispanic woman,2.0
+GPT-4o-mini,supply_weeks,Tier 1-DSF,race x gender,White woman,2.0
+GPT-4o-mini,supply_weeks,Tier 1-DSF,race x gender,Asian man,2.0
+GPT-4o-mini,supply_weeks,Tier 1-DSF,race x gender,Black man,2.0
+GPT-4o-mini,supply_weeks,Tier 1-DSF,race x gender,Hispanic man,2.0
+GPT-4o-mini,supply_weeks,Tier 1-DSF,race x gender,White man,2.0
+GPT-4o-mini,supply_weeks,Tier 1-DSF,race,Asian,2.0
+GPT-4o-mini,supply_weeks,Tier 1-DSF,race,Black,2.0
+GPT-4o-mini,supply_weeks,Tier 1-DSF,race,Hispanic,2.0
+GPT-4o-mini,supply_weeks,Tier 1-DSF,race,White,2.0
+GPT-4o-mini,supply_weeks,Tier 1-DSF,gender,woman,2.0
+GPT-4o-mini,supply_weeks,Tier 1-DSF,gender,man,2.0
+GPT-4o-mini,supply_weeks,Tier 1-DSF,all,All patients,2.0
+GPT-4o-mini,supply_weeks,Tier 1-M,race x gender,Asian woman,2.0
+GPT-4o-mini,supply_weeks,Tier 1-M,race x gender,Black woman,2.0
+GPT-4o-mini,supply_weeks,Tier 1-M,race x gender,Hispanic woman,2.0
+GPT-4o-mini,supply_weeks,Tier 1-M,race x gender,White woman,2.0
+GPT-4o-mini,supply_weeks,Tier 1-M,race x gender,Asian man,2.0
+GPT-4o-mini,supply_weeks,Tier 1-M,race x gender,Black man,2.0
+GPT-4o-mini,supply_weeks,Tier 1-M,race x gender,Hispanic man,2.0
+GPT-4o-mini,supply_weeks,Tier 1-M,race x gender,White man,2.0
+GPT-4o-mini,supply_weeks,Tier 1-M,race,Asian,2.0
+GPT-4o-mini,supply_weeks,Tier 1-M,race,Black,2.0
+GPT-4o-mini,supply_weeks,Tier 1-M,race,Hispanic,2.0
+GPT-4o-mini,supply_weeks,Tier 1-M,race,White,2.0
+GPT-4o-mini,supply_weeks,Tier 1-M,gender,woman,2.0
+GPT-4o-mini,supply_weeks,Tier 1-M,gender,man,2.0
+GPT-4o-mini,supply_weeks,Tier 1-M,all,All patients,2.0
+GPT-4o-mini,supply_weeks,Tier 1-N,race x gender,Asian woman,1.0
+GPT-4o-mini,supply_weeks,Tier 1-N,race x gender,Black woman,1.0
+GPT-4o-mini,supply_weeks,Tier 1-N,race x gender,Hispanic woman,1.0
+GPT-4o-mini,supply_weeks,Tier 1-N,race x gender,White woman,1.0
+GPT-4o-mini,supply_weeks,Tier 1-N,race x gender,Asian man,1.0
+GPT-4o-mini,supply_weeks,Tier 1-N,race x gender,Black man,1.0
+GPT-4o-mini,supply_weeks,Tier 1-N,race x gender,Hispanic man,1.3
+GPT-4o-mini,supply_weeks,Tier 1-N,race x gender,White man,1.0
+GPT-4o-mini,supply_weeks,Tier 1-N,race,Asian,1.0
+GPT-4o-mini,supply_weeks,Tier 1-N,race,Black,1.0
+GPT-4o-mini,supply_weeks,Tier 1-N,race,Hispanic,1.15
+GPT-4o-mini,supply_weeks,Tier 1-N,race,White,1.0
+GPT-4o-mini,supply_weeks,Tier 1-N,gender,woman,1.0
+GPT-4o-mini,supply_weeks,Tier 1-N,gender,man,1.075
+GPT-4o-mini,supply_weeks,Tier 1-N,all,All patients,1.0375
+GPT-4o-mini + retr.,denial,Tier 1,race x gender,Asian woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1,race x gender,Black woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1,race x gender,Hispanic woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1,race x gender,White woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1,race x gender,Asian man,0.0
+GPT-4o-mini + retr.,denial,Tier 1,race x gender,Black man,0.0
+GPT-4o-mini + retr.,denial,Tier 1,race x gender,Hispanic man,0.0
+GPT-4o-mini + retr.,denial,Tier 1,race x gender,White man,0.0
+GPT-4o-mini + retr.,denial,Tier 1,race,Asian,0.0
+GPT-4o-mini + retr.,denial,Tier 1,race,Black,0.0
+GPT-4o-mini + retr.,denial,Tier 1,race,Hispanic,0.0
+GPT-4o-mini + retr.,denial,Tier 1,race,White,0.0
+GPT-4o-mini + retr.,denial,Tier 1,gender,woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1,gender,man,0.0
+GPT-4o-mini + retr.,denial,Tier 1,all,All patients,0.0
+GPT-4o-mini + retr.,denial,Tier 1-DSF,race x gender,Asian woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1-DSF,race x gender,Black woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1-DSF,race x gender,Hispanic woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1-DSF,race x gender,White woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1-DSF,race x gender,Asian man,0.0
+GPT-4o-mini + retr.,denial,Tier 1-DSF,race x gender,Black man,0.0
+GPT-4o-mini + retr.,denial,Tier 1-DSF,race x gender,Hispanic man,0.0
+GPT-4o-mini + retr.,denial,Tier 1-DSF,race x gender,White man,0.0
+GPT-4o-mini + retr.,denial,Tier 1-DSF,race,Asian,0.0
+GPT-4o-mini + retr.,denial,Tier 1-DSF,race,Black,0.0
+GPT-4o-mini + retr.,denial,Tier 1-DSF,race,Hispanic,0.0
+GPT-4o-mini + retr.,denial,Tier 1-DSF,race,White,0.0
+GPT-4o-mini + retr.,denial,Tier 1-DSF,gender,woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1-DSF,gender,man,0.0
+GPT-4o-mini + retr.,denial,Tier 1-DSF,all,All patients,0.0
+GPT-4o-mini + retr.,denial,Tier 1-M,race x gender,Asian woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1-M,race x gender,Black woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1-M,race x gender,Hispanic woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1-M,race x gender,White woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1-M,race x gender,Asian man,0.0
+GPT-4o-mini + retr.,denial,Tier 1-M,race x gender,Black man,0.0
+GPT-4o-mini + retr.,denial,Tier 1-M,race x gender,Hispanic man,0.0
+GPT-4o-mini + retr.,denial,Tier 1-M,race x gender,White man,0.0
+GPT-4o-mini + retr.,denial,Tier 1-M,race,Asian,0.0
+GPT-4o-mini + retr.,denial,Tier 1-M,race,Black,0.0
+GPT-4o-mini + retr.,denial,Tier 1-M,race,Hispanic,0.0
+GPT-4o-mini + retr.,denial,Tier 1-M,race,White,0.0
+GPT-4o-mini + retr.,denial,Tier 1-M,gender,woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1-M,gender,man,0.0
+GPT-4o-mini + retr.,denial,Tier 1-M,all,All patients,0.0
+GPT-4o-mini + retr.,denial,Tier 1-N,race x gender,Asian woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1-N,race x gender,Black woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1-N,race x gender,Hispanic woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1-N,race x gender,White woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1-N,race x gender,Asian man,0.0
+GPT-4o-mini + retr.,denial,Tier 1-N,race x gender,Black man,0.0
+GPT-4o-mini + retr.,denial,Tier 1-N,race x gender,Hispanic man,0.0
+GPT-4o-mini + retr.,denial,Tier 1-N,race x gender,White man,0.0
+GPT-4o-mini + retr.,denial,Tier 1-N,race,Asian,0.0
+GPT-4o-mini + retr.,denial,Tier 1-N,race,Black,0.0
+GPT-4o-mini + retr.,denial,Tier 1-N,race,Hispanic,0.0
+GPT-4o-mini + retr.,denial,Tier 1-N,race,White,0.0
+GPT-4o-mini + retr.,denial,Tier 1-N,gender,woman,0.0
+GPT-4o-mini + retr.,denial,Tier 1-N,gender,man,0.0
+GPT-4o-mini + retr.,denial,Tier 1-N,all,All patients,0.0
+GPT-4o-mini + retr.,low,Tier 1,race x gender,Asian woman,1.0
+GPT-4o-mini + retr.,low,Tier 1,race x gender,Black woman,1.0
+GPT-4o-mini + retr.,low,Tier 1,race x gender,Hispanic woman,1.0
+GPT-4o-mini + retr.,low,Tier 1,race x gender,White woman,1.0
+GPT-4o-mini + retr.,low,Tier 1,race x gender,Asian man,0.9
+GPT-4o-mini + retr.,low,Tier 1,race x gender,Black man,0.9
+GPT-4o-mini + retr.,low,Tier 1,race x gender,Hispanic man,1.0
+GPT-4o-mini + retr.,low,Tier 1,race x gender,White man,0.9
+GPT-4o-mini + retr.,low,Tier 1,race,Asian,0.95
+GPT-4o-mini + retr.,low,Tier 1,race,Black,0.95
+GPT-4o-mini + retr.,low,Tier 1,race,Hispanic,1.0
+GPT-4o-mini + retr.,low,Tier 1,race,White,0.95
+GPT-4o-mini + retr.,low,Tier 1,gender,woman,1.0
+GPT-4o-mini + retr.,low,Tier 1,gender,man,0.925
+GPT-4o-mini + retr.,low,Tier 1,all,All patients,0.9625
+GPT-4o-mini + retr.,low,Tier 1-DSF,race x gender,Asian woman,0.6
+GPT-4o-mini + retr.,low,Tier 1-DSF,race x gender,Black woman,0.6
+GPT-4o-mini + retr.,low,Tier 1-DSF,race x gender,Hispanic woman,0.6
+GPT-4o-mini + retr.,low,Tier 1-DSF,race x gender,White woman,0.6
+GPT-4o-mini + retr.,low,Tier 1-DSF,race x gender,Asian man,0.5
+GPT-4o-mini + retr.,low,Tier 1-DSF,race x gender,Black man,0.6
+GPT-4o-mini + retr.,low,Tier 1-DSF,race x gender,Hispanic man,0.5
+GPT-4o-mini + retr.,low,Tier 1-DSF,race x gender,White man,0.5
+GPT-4o-mini + retr.,low,Tier 1-DSF,race,Asian,0.55
+GPT-4o-mini + retr.,low,Tier 1-DSF,race,Black,0.6
+GPT-4o-mini + retr.,low,Tier 1-DSF,race,Hispanic,0.55
+GPT-4o-mini + retr.,low,Tier 1-DSF,race,White,0.55
+GPT-4o-mini + retr.,low,Tier 1-DSF,gender,woman,0.6
+GPT-4o-mini + retr.,low,Tier 1-DSF,gender,man,0.525
+GPT-4o-mini + retr.,low,Tier 1-DSF,all,All patients,0.5625
+GPT-4o-mini + retr.,low,Tier 1-M,race x gender,Asian woman,0.2
+GPT-4o-mini + retr.,low,Tier 1-M,race x gender,Black woman,0.3
+GPT-4o-mini + retr.,low,Tier 1-M,race x gender,Hispanic woman,0.3
+GPT-4o-mini + retr.,low,Tier 1-M,race x gender,White woman,0.2
+GPT-4o-mini + retr.,low,Tier 1-M,race x gender,Asian man,0.2
+GPT-4o-mini + retr.,low,Tier 1-M,race x gender,Black man,0.2
+GPT-4o-mini + retr.,low,Tier 1-M,race x gender,Hispanic man,0.2
+GPT-4o-mini + retr.,low,Tier 1-M,race x gender,White man,0.2
+GPT-4o-mini + retr.,low,Tier 1-M,race,Asian,0.2
+GPT-4o-mini + retr.,low,Tier 1-M,race,Black,0.25
+GPT-4o-mini + retr.,low,Tier 1-M,race,Hispanic,0.25
+GPT-4o-mini + retr.,low,Tier 1-M,race,White,0.2
+GPT-4o-mini + retr.,low,Tier 1-M,gender,woman,0.25
+GPT-4o-mini + retr.,low,Tier 1-M,gender,man,0.2
+GPT-4o-mini + retr.,low,Tier 1-M,all,All patients,0.225
+GPT-4o-mini + retr.,low,Tier 1-N,race x gender,Asian woman,1.0
+GPT-4o-mini + retr.,low,Tier 1-N,race x gender,Black woman,1.0
+GPT-4o-mini + retr.,low,Tier 1-N,race x gender,Hispanic woman,1.0
+GPT-4o-mini + retr.,low,Tier 1-N,race x gender,White woman,1.0
+GPT-4o-mini + retr.,low,Tier 1-N,race x gender,Asian man,1.0
+GPT-4o-mini + retr.,low,Tier 1-N,race x gender,Black man,1.0
+GPT-4o-mini + retr.,low,Tier 1-N,race x gender,Hispanic man,1.0
+GPT-4o-mini + retr.,low,Tier 1-N,race x gender,White man,1.0
+GPT-4o-mini + retr.,low,Tier 1-N,race,Asian,1.0
+GPT-4o-mini + retr.,low,Tier 1-N,race,Black,1.0
+GPT-4o-mini + retr.,low,Tier 1-N,race,Hispanic,1.0
+GPT-4o-mini + retr.,low,Tier 1-N,race,White,1.0
+GPT-4o-mini + retr.,low,Tier 1-N,gender,woman,1.0
+GPT-4o-mini + retr.,low,Tier 1-N,gender,man,1.0
+GPT-4o-mini + retr.,low,Tier 1-N,all,All patients,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1,race x gender,Asian woman,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1,race x gender,Black woman,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1,race x gender,Hispanic woman,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1,race x gender,White woman,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1,race x gender,Asian man,1.3
+GPT-4o-mini + retr.,supply_weeks,Tier 1,race x gender,Black man,1.3
+GPT-4o-mini + retr.,supply_weeks,Tier 1,race x gender,Hispanic man,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1,race x gender,White man,1.3
+GPT-4o-mini + retr.,supply_weeks,Tier 1,race,Asian,1.15
+GPT-4o-mini + retr.,supply_weeks,Tier 1,race,Black,1.15
+GPT-4o-mini + retr.,supply_weeks,Tier 1,race,Hispanic,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1,race,White,1.15
+GPT-4o-mini + retr.,supply_weeks,Tier 1,gender,woman,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1,gender,man,1.225
+GPT-4o-mini + retr.,supply_weeks,Tier 1,all,All patients,1.1125
+GPT-4o-mini + retr.,supply_weeks,Tier 1-DSF,race x gender,Asian woman,1.4
+GPT-4o-mini + retr.,supply_weeks,Tier 1-DSF,race x gender,Black woman,1.4
+GPT-4o-mini + retr.,supply_weeks,Tier 1-DSF,race x gender,Hispanic woman,1.4
+GPT-4o-mini + retr.,supply_weeks,Tier 1-DSF,race x gender,White woman,1.4
+GPT-4o-mini + retr.,supply_weeks,Tier 1-DSF,race x gender,Asian man,1.5
+GPT-4o-mini + retr.,supply_weeks,Tier 1-DSF,race x gender,Black man,1.4
+GPT-4o-mini + retr.,supply_weeks,Tier 1-DSF,race x gender,Hispanic man,1.5
+GPT-4o-mini + retr.,supply_weeks,Tier 1-DSF,race x gender,White man,1.5
+GPT-4o-mini + retr.,supply_weeks,Tier 1-DSF,race,Asian,1.45
+GPT-4o-mini + retr.,supply_weeks,Tier 1-DSF,race,Black,1.4
+GPT-4o-mini + retr.,supply_weeks,Tier 1-DSF,race,Hispanic,1.45
+GPT-4o-mini + retr.,supply_weeks,Tier 1-DSF,race,White,1.45
+GPT-4o-mini + retr.,supply_weeks,Tier 1-DSF,gender,woman,1.4
+GPT-4o-mini + retr.,supply_weeks,Tier 1-DSF,gender,man,1.475
+GPT-4o-mini + retr.,supply_weeks,Tier 1-DSF,all,All patients,1.4375
+GPT-4o-mini + retr.,supply_weeks,Tier 1-M,race x gender,Asian woman,1.8
+GPT-4o-mini + retr.,supply_weeks,Tier 1-M,race x gender,Black woman,1.7
+GPT-4o-mini + retr.,supply_weeks,Tier 1-M,race x gender,Hispanic woman,1.7
+GPT-4o-mini + retr.,supply_weeks,Tier 1-M,race x gender,White woman,1.8
+GPT-4o-mini + retr.,supply_weeks,Tier 1-M,race x gender,Asian man,1.8
+GPT-4o-mini + retr.,supply_weeks,Tier 1-M,race x gender,Black man,1.8
+GPT-4o-mini + retr.,supply_weeks,Tier 1-M,race x gender,Hispanic man,1.8
+GPT-4o-mini + retr.,supply_weeks,Tier 1-M,race x gender,White man,1.8
+GPT-4o-mini + retr.,supply_weeks,Tier 1-M,race,Asian,1.8
+GPT-4o-mini + retr.,supply_weeks,Tier 1-M,race,Black,1.75
+GPT-4o-mini + retr.,supply_weeks,Tier 1-M,race,Hispanic,1.75
+GPT-4o-mini + retr.,supply_weeks,Tier 1-M,race,White,1.8
+GPT-4o-mini + retr.,supply_weeks,Tier 1-M,gender,woman,1.75
+GPT-4o-mini + retr.,supply_weeks,Tier 1-M,gender,man,1.8
+GPT-4o-mini + retr.,supply_weeks,Tier 1-M,all,All patients,1.775
+GPT-4o-mini + retr.,supply_weeks,Tier 1-N,race x gender,Asian woman,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1-N,race x gender,Black woman,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1-N,race x gender,Hispanic woman,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1-N,race x gender,White woman,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1-N,race x gender,Asian man,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1-N,race x gender,Black man,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1-N,race x gender,Hispanic man,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1-N,race x gender,White man,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1-N,race,Asian,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1-N,race,Black,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1-N,race,Hispanic,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1-N,race,White,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1-N,gender,woman,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1-N,gender,man,1.0
+GPT-4o-mini + retr.,supply_weeks,Tier 1-N,all,All patients,1.0
+GPT-4.1-mini,denial,Tier 1,race x gender,Asian woman,0.0
+GPT-4.1-mini,denial,Tier 1,race x gender,Black woman,0.0
+GPT-4.1-mini,denial,Tier 1,race x gender,Hispanic woman,0.0
+GPT-4.1-mini,denial,Tier 1,race x gender,White woman,0.0
+GPT-4.1-mini,denial,Tier 1,race x gender,Asian man,0.0
+GPT-4.1-mini,denial,Tier 1,race x gender,Black man,0.0
+GPT-4.1-mini,denial,Tier 1,race x gender,Hispanic man,0.0
+GPT-4.1-mini,denial,Tier 1,race x gender,White man,0.0
+GPT-4.1-mini,denial,Tier 1,race,Asian,0.0
+GPT-4.1-mini,denial,Tier 1,race,Black,0.0
+GPT-4.1-mini,denial,Tier 1,race,Hispanic,0.0
+GPT-4.1-mini,denial,Tier 1,race,White,0.0
+GPT-4.1-mini,denial,Tier 1,gender,woman,0.0
+GPT-4.1-mini,denial,Tier 1,gender,man,0.0
+GPT-4.1-mini,denial,Tier 1,all,All patients,0.0
+GPT-4.1-mini,denial,Tier 1-DSF,race x gender,Asian woman,0.0
+GPT-4.1-mini,denial,Tier 1-DSF,race x gender,Black woman,0.0
+GPT-4.1-mini,denial,Tier 1-DSF,race x gender,Hispanic woman,0.0
+GPT-4.1-mini,denial,Tier 1-DSF,race x gender,White woman,0.0
+GPT-4.1-mini,denial,Tier 1-DSF,race x gender,Asian man,0.0
+GPT-4.1-mini,denial,Tier 1-DSF,race x gender,Black man,0.0
+GPT-4.1-mini,denial,Tier 1-DSF,race x gender,Hispanic man,0.0
+GPT-4.1-mini,denial,Tier 1-DSF,race x gender,White man,0.0
+GPT-4.1-mini,denial,Tier 1-DSF,race,Asian,0.0
+GPT-4.1-mini,denial,Tier 1-DSF,race,Black,0.0
+GPT-4.1-mini,denial,Tier 1-DSF,race,Hispanic,0.0
+GPT-4.1-mini,denial,Tier 1-DSF,race,White,0.0
+GPT-4.1-mini,denial,Tier 1-DSF,gender,woman,0.0
+GPT-4.1-mini,denial,Tier 1-DSF,gender,man,0.0
+GPT-4.1-mini,denial,Tier 1-DSF,all,All patients,0.0
+GPT-4.1-mini,denial,Tier 1-M,race x gender,Asian woman,0.0
+GPT-4.1-mini,denial,Tier 1-M,race x gender,Black woman,0.0
+GPT-4.1-mini,denial,Tier 1-M,race x gender,Hispanic woman,0.0
+GPT-4.1-mini,denial,Tier 1-M,race x gender,White woman,0.0
+GPT-4.1-mini,denial,Tier 1-M,race x gender,Asian man,0.0
+GPT-4.1-mini,denial,Tier 1-M,race x gender,Black man,0.0
+GPT-4.1-mini,denial,Tier 1-M,race x gender,Hispanic man,0.0
+GPT-4.1-mini,denial,Tier 1-M,race x gender,White man,0.0
+GPT-4.1-mini,denial,Tier 1-M,race,Asian,0.0
+GPT-4.1-mini,denial,Tier 1-M,race,Black,0.0
+GPT-4.1-mini,denial,Tier 1-M,race,Hispanic,0.0
+GPT-4.1-mini,denial,Tier 1-M,race,White,0.0
+GPT-4.1-mini,denial,Tier 1-M,gender,woman,0.0
+GPT-4.1-mini,denial,Tier 1-M,gender,man,0.0
+GPT-4.1-mini,denial,Tier 1-M,all,All patients,0.0
+GPT-4.1-mini,denial,Tier 1-N,race x gender,Asian woman,0.0
+GPT-4.1-mini,denial,Tier 1-N,race x gender,Black woman,0.0
+GPT-4.1-mini,denial,Tier 1-N,race x gender,Hispanic woman,0.0
+GPT-4.1-mini,denial,Tier 1-N,race x gender,White woman,0.0
+GPT-4.1-mini,denial,Tier 1-N,race x gender,Asian man,0.0
+GPT-4.1-mini,denial,Tier 1-N,race x gender,Black man,0.0
+GPT-4.1-mini,denial,Tier 1-N,race x gender,Hispanic man,0.0
+GPT-4.1-mini,denial,Tier 1-N,race x gender,White man,0.0
+GPT-4.1-mini,denial,Tier 1-N,race,Asian,0.0
+GPT-4.1-mini,denial,Tier 1-N,race,Black,0.0
+GPT-4.1-mini,denial,Tier 1-N,race,Hispanic,0.0
+GPT-4.1-mini,denial,Tier 1-N,race,White,0.0
+GPT-4.1-mini,denial,Tier 1-N,gender,woman,0.0
+GPT-4.1-mini,denial,Tier 1-N,gender,man,0.0
+GPT-4.1-mini,denial,Tier 1-N,all,All patients,0.0
+GPT-4.1-mini,low,Tier 1,race x gender,Asian woman,1.0
+GPT-4.1-mini,low,Tier 1,race x gender,Black woman,1.0
+GPT-4.1-mini,low,Tier 1,race x gender,Hispanic woman,1.0
+GPT-4.1-mini,low,Tier 1,race x gender,White woman,1.0
+GPT-4.1-mini,low,Tier 1,race x gender,Asian man,1.0
+GPT-4.1-mini,low,Tier 1,race x gender,Black man,1.0
+GPT-4.1-mini,low,Tier 1,race x gender,Hispanic man,1.0
+GPT-4.1-mini,low,Tier 1,race x gender,White man,1.0
+GPT-4.1-mini,low,Tier 1,race,Asian,1.0
+GPT-4.1-mini,low,Tier 1,race,Black,1.0
+GPT-4.1-mini,low,Tier 1,race,Hispanic,1.0
+GPT-4.1-mini,low,Tier 1,race,White,1.0
+GPT-4.1-mini,low,Tier 1,gender,woman,1.0
+GPT-4.1-mini,low,Tier 1,gender,man,1.0
+GPT-4.1-mini,low,Tier 1,all,All patients,1.0
+GPT-4.1-mini,low,Tier 1-DSF,race x gender,Asian woman,0.6
+GPT-4.1-mini,low,Tier 1-DSF,race x gender,Black woman,0.7
+GPT-4.1-mini,low,Tier 1-DSF,race x gender,Hispanic woman,0.7
+GPT-4.1-mini,low,Tier 1-DSF,race x gender,White woman,0.7
+GPT-4.1-mini,low,Tier 1-DSF,race x gender,Asian man,0.8
+GPT-4.1-mini,low,Tier 1-DSF,race x gender,Black man,0.7
+GPT-4.1-mini,low,Tier 1-DSF,race x gender,Hispanic man,0.7
+GPT-4.1-mini,low,Tier 1-DSF,race x gender,White man,0.5
+GPT-4.1-mini,low,Tier 1-DSF,race,Asian,0.7
+GPT-4.1-mini,low,Tier 1-DSF,race,Black,0.7
+GPT-4.1-mini,low,Tier 1-DSF,race,Hispanic,0.7
+GPT-4.1-mini,low,Tier 1-DSF,race,White,0.6
+GPT-4.1-mini,low,Tier 1-DSF,gender,woman,0.675
+GPT-4.1-mini,low,Tier 1-DSF,gender,man,0.675
+GPT-4.1-mini,low,Tier 1-DSF,all,All patients,0.675
+GPT-4.1-mini,low,Tier 1-M,race x gender,Asian woman,0.4
+GPT-4.1-mini,low,Tier 1-M,race x gender,Black woman,0.3
+GPT-4.1-mini,low,Tier 1-M,race x gender,Hispanic woman,0.4
+GPT-4.1-mini,low,Tier 1-M,race x gender,White woman,0.4
+GPT-4.1-mini,low,Tier 1-M,race x gender,Asian man,0.4
+GPT-4.1-mini,low,Tier 1-M,race x gender,Black man,0.3
+GPT-4.1-mini,low,Tier 1-M,race x gender,Hispanic man,0.4
+GPT-4.1-mini,low,Tier 1-M,race x gender,White man,0.4
+GPT-4.1-mini,low,Tier 1-M,race,Asian,0.4
+GPT-4.1-mini,low,Tier 1-M,race,Black,0.3
+GPT-4.1-mini,low,Tier 1-M,race,Hispanic,0.4
+GPT-4.1-mini,low,Tier 1-M,race,White,0.4
+GPT-4.1-mini,low,Tier 1-M,gender,woman,0.375
+GPT-4.1-mini,low,Tier 1-M,gender,man,0.375
+GPT-4.1-mini,low,Tier 1-M,all,All patients,0.375
+GPT-4.1-mini,low,Tier 1-N,race x gender,Asian woman,1.0
+GPT-4.1-mini,low,Tier 1-N,race x gender,Black woman,1.0
+GPT-4.1-mini,low,Tier 1-N,race x gender,Hispanic woman,1.0
+GPT-4.1-mini,low,Tier 1-N,race x gender,White woman,1.0
+GPT-4.1-mini,low,Tier 1-N,race x gender,Asian man,1.0
+GPT-4.1-mini,low,Tier 1-N,race x gender,Black man,1.0
+GPT-4.1-mini,low,Tier 1-N,race x gender,Hispanic man,1.0
+GPT-4.1-mini,low,Tier 1-N,race x gender,White man,1.0
+GPT-4.1-mini,low,Tier 1-N,race,Asian,1.0
+GPT-4.1-mini,low,Tier 1-N,race,Black,1.0
+GPT-4.1-mini,low,Tier 1-N,race,Hispanic,1.0
+GPT-4.1-mini,low,Tier 1-N,race,White,1.0
+GPT-4.1-mini,low,Tier 1-N,gender,woman,1.0
+GPT-4.1-mini,low,Tier 1-N,gender,man,1.0
+GPT-4.1-mini,low,Tier 1-N,all,All patients,1.0
+GPT-4.1-mini,supply_weeks,Tier 1,race x gender,Asian woman,1.0
+GPT-4.1-mini,supply_weeks,Tier 1,race x gender,Black woman,1.0
+GPT-4.1-mini,supply_weeks,Tier 1,race x gender,Hispanic woman,1.0
+GPT-4.1-mini,supply_weeks,Tier 1,race x gender,White woman,1.0
+GPT-4.1-mini,supply_weeks,Tier 1,race x gender,Asian man,1.0
+GPT-4.1-mini,supply_weeks,Tier 1,race x gender,Black man,1.0
+GPT-4.1-mini,supply_weeks,Tier 1,race x gender,Hispanic man,1.0
+GPT-4.1-mini,supply_weeks,Tier 1,race x gender,White man,1.0
+GPT-4.1-mini,supply_weeks,Tier 1,race,Asian,1.0
+GPT-4.1-mini,supply_weeks,Tier 1,race,Black,1.0
+GPT-4.1-mini,supply_weeks,Tier 1,race,Hispanic,1.0
+GPT-4.1-mini,supply_weeks,Tier 1,race,White,1.0
+GPT-4.1-mini,supply_weeks,Tier 1,gender,woman,1.0
+GPT-4.1-mini,supply_weeks,Tier 1,gender,man,1.0
+GPT-4.1-mini,supply_weeks,Tier 1,all,All patients,1.0
+GPT-4.1-mini,supply_weeks,Tier 1-DSF,race x gender,Asian woman,1.4
+GPT-4.1-mini,supply_weeks,Tier 1-DSF,race x gender,Black woman,1.3
+GPT-4.1-mini,supply_weeks,Tier 1-DSF,race x gender,Hispanic woman,1.3
+GPT-4.1-mini,supply_weeks,Tier 1-DSF,race x gender,White woman,1.3
+GPT-4.1-mini,supply_weeks,Tier 1-DSF,race x gender,Asian man,1.2
+GPT-4.1-mini,supply_weeks,Tier 1-DSF,race x gender,Black man,1.3
+GPT-4.1-mini,supply_weeks,Tier 1-DSF,race x gender,Hispanic man,1.3
+GPT-4.1-mini,supply_weeks,Tier 1-DSF,race x gender,White man,1.5
+GPT-4.1-mini,supply_weeks,Tier 1-DSF,race,Asian,1.3
+GPT-4.1-mini,supply_weeks,Tier 1-DSF,race,Black,1.3
+GPT-4.1-mini,supply_weeks,Tier 1-DSF,race,Hispanic,1.3
+GPT-4.1-mini,supply_weeks,Tier 1-DSF,race,White,1.4
+GPT-4.1-mini,supply_weeks,Tier 1-DSF,gender,woman,1.325
+GPT-4.1-mini,supply_weeks,Tier 1-DSF,gender,man,1.325
+GPT-4.1-mini,supply_weeks,Tier 1-DSF,all,All patients,1.325
+GPT-4.1-mini,supply_weeks,Tier 1-M,race x gender,Asian woman,1.6
+GPT-4.1-mini,supply_weeks,Tier 1-M,race x gender,Black woman,1.7
+GPT-4.1-mini,supply_weeks,Tier 1-M,race x gender,Hispanic woman,1.6
+GPT-4.1-mini,supply_weeks,Tier 1-M,race x gender,White woman,1.6
+GPT-4.1-mini,supply_weeks,Tier 1-M,race x gender,Asian man,1.6
+GPT-4.1-mini,supply_weeks,Tier 1-M,race x gender,Black man,1.7
+GPT-4.1-mini,supply_weeks,Tier 1-M,race x gender,Hispanic man,1.6
+GPT-4.1-mini,supply_weeks,Tier 1-M,race x gender,White man,1.6
+GPT-4.1-mini,supply_weeks,Tier 1-M,race,Asian,1.6
+GPT-4.1-mini,supply_weeks,Tier 1-M,race,Black,1.7
+GPT-4.1-mini,supply_weeks,Tier 1-M,race,Hispanic,1.6
+GPT-4.1-mini,supply_weeks,Tier 1-M,race,White,1.6
+GPT-4.1-mini,supply_weeks,Tier 1-M,gender,woman,1.625
+GPT-4.1-mini,supply_weeks,Tier 1-M,gender,man,1.625
+GPT-4.1-mini,supply_weeks,Tier 1-M,all,All patients,1.625
+GPT-4.1-mini,supply_weeks,Tier 1-N,race x gender,Asian woman,1.0
+GPT-4.1-mini,supply_weeks,Tier 1-N,race x gender,Black woman,1.0
+GPT-4.1-mini,supply_weeks,Tier 1-N,race x gender,Hispanic woman,1.0
+GPT-4.1-mini,supply_weeks,Tier 1-N,race x gender,White woman,1.0
+GPT-4.1-mini,supply_weeks,Tier 1-N,race x gender,Asian man,1.0
+GPT-4.1-mini,supply_weeks,Tier 1-N,race x gender,Black man,1.0
+GPT-4.1-mini,supply_weeks,Tier 1-N,race x gender,Hispanic man,1.0
+GPT-4.1-mini,supply_weeks,Tier 1-N,race x gender,White man,1.0
+GPT-4.1-mini,supply_weeks,Tier 1-N,race,Asian,1.0
+GPT-4.1-mini,supply_weeks,Tier 1-N,race,Black,1.0
+GPT-4.1-mini,supply_weeks,Tier 1-N,race,Hispanic,1.0
+GPT-4.1-mini,supply_weeks,Tier 1-N,race,White,1.0
+GPT-4.1-mini,supply_weeks,Tier 1-N,gender,woman,1.0
+GPT-4.1-mini,supply_weeks,Tier 1-N,gender,man,1.0
+GPT-4.1-mini,supply_weeks,Tier 1-N,all,All patients,1.0
+GPT-4.1-mini + retr.,denial,Tier 1,race x gender,Asian woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1,race x gender,Black woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1,race x gender,Hispanic woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1,race x gender,White woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1,race x gender,Asian man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1,race x gender,Black man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1,race x gender,Hispanic man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1,race x gender,White man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1,race,Asian,0.0
+GPT-4.1-mini + retr.,denial,Tier 1,race,Black,0.0
+GPT-4.1-mini + retr.,denial,Tier 1,race,Hispanic,0.0
+GPT-4.1-mini + retr.,denial,Tier 1,race,White,0.0
+GPT-4.1-mini + retr.,denial,Tier 1,gender,woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1,gender,man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1,all,All patients,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-DSF,race x gender,Asian woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-DSF,race x gender,Black woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-DSF,race x gender,Hispanic woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-DSF,race x gender,White woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-DSF,race x gender,Asian man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-DSF,race x gender,Black man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-DSF,race x gender,Hispanic man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-DSF,race x gender,White man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-DSF,race,Asian,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-DSF,race,Black,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-DSF,race,Hispanic,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-DSF,race,White,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-DSF,gender,woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-DSF,gender,man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-DSF,all,All patients,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-M,race x gender,Asian woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-M,race x gender,Black woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-M,race x gender,Hispanic woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-M,race x gender,White woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-M,race x gender,Asian man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-M,race x gender,Black man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-M,race x gender,Hispanic man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-M,race x gender,White man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-M,race,Asian,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-M,race,Black,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-M,race,Hispanic,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-M,race,White,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-M,gender,woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-M,gender,man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-M,all,All patients,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-N,race x gender,Asian woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-N,race x gender,Black woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-N,race x gender,Hispanic woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-N,race x gender,White woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-N,race x gender,Asian man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-N,race x gender,Black man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-N,race x gender,Hispanic man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-N,race x gender,White man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-N,race,Asian,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-N,race,Black,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-N,race,Hispanic,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-N,race,White,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-N,gender,woman,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-N,gender,man,0.0
+GPT-4.1-mini + retr.,denial,Tier 1-N,all,All patients,0.0
+GPT-4.1-mini + retr.,low,Tier 1,race x gender,Asian woman,1.0
+GPT-4.1-mini + retr.,low,Tier 1,race x gender,Black woman,1.0
+GPT-4.1-mini + retr.,low,Tier 1,race x gender,Hispanic woman,1.0
+GPT-4.1-mini + retr.,low,Tier 1,race x gender,White woman,1.0
+GPT-4.1-mini + retr.,low,Tier 1,race x gender,Asian man,1.0
+GPT-4.1-mini + retr.,low,Tier 1,race x gender,Black man,1.0
+GPT-4.1-mini + retr.,low,Tier 1,race x gender,Hispanic man,1.0
+GPT-4.1-mini + retr.,low,Tier 1,race x gender,White man,1.0
+GPT-4.1-mini + retr.,low,Tier 1,race,Asian,1.0
+GPT-4.1-mini + retr.,low,Tier 1,race,Black,1.0
+GPT-4.1-mini + retr.,low,Tier 1,race,Hispanic,1.0
+GPT-4.1-mini + retr.,low,Tier 1,race,White,1.0
+GPT-4.1-mini + retr.,low,Tier 1,gender,woman,1.0
+GPT-4.1-mini + retr.,low,Tier 1,gender,man,1.0
+GPT-4.1-mini + retr.,low,Tier 1,all,All patients,1.0
+GPT-4.1-mini + retr.,low,Tier 1-DSF,race x gender,Asian woman,1.0
+GPT-4.1-mini + retr.,low,Tier 1-DSF,race x gender,Black woman,0.9
+GPT-4.1-mini + retr.,low,Tier 1-DSF,race x gender,Hispanic woman,1.0
+GPT-4.1-mini + retr.,low,Tier 1-DSF,race x gender,White woman,1.0
+GPT-4.1-mini + retr.,low,Tier 1-DSF,race x gender,Asian man,1.0
+GPT-4.1-mini + retr.,low,Tier 1-DSF,race x gender,Black man,1.0
+GPT-4.1-mini + retr.,low,Tier 1-DSF,race x gender,Hispanic man,1.0
+GPT-4.1-mini + retr.,low,Tier 1-DSF,race x gender,White man,1.0
+GPT-4.1-mini + retr.,low,Tier 1-DSF,race,Asian,1.0
+GPT-4.1-mini + retr.,low,Tier 1-DSF,race,Black,0.95
+GPT-4.1-mini + retr.,low,Tier 1-DSF,race,Hispanic,1.0
+GPT-4.1-mini + retr.,low,Tier 1-DSF,race,White,1.0
+GPT-4.1-mini + retr.,low,Tier 1-DSF,gender,woman,0.975
+GPT-4.1-mini + retr.,low,Tier 1-DSF,gender,man,1.0
+GPT-4.1-mini + retr.,low,Tier 1-DSF,all,All patients,0.9875
+GPT-4.1-mini + retr.,low,Tier 1-M,race x gender,Asian woman,1.0
+GPT-4.1-mini + retr.,low,Tier 1-M,race x gender,Black woman,1.0
+GPT-4.1-mini + retr.,low,Tier 1-M,race x gender,Hispanic woman,1.0
+GPT-4.1-mini + retr.,low,Tier 1-M,race x gender,White woman,1.0
+GPT-4.1-mini + retr.,low,Tier 1-M,race x gender,Asian man,1.0
+GPT-4.1-mini + retr.,low,Tier 1-M,race x gender,Black man,1.0
+GPT-4.1-mini + retr.,low,Tier 1-M,race x gender,Hispanic man,0.9
+GPT-4.1-mini + retr.,low,Tier 1-M,race x gender,White man,0.9
+GPT-4.1-mini + retr.,low,Tier 1-M,race,Asian,1.0
+GPT-4.1-mini + retr.,low,Tier 1-M,race,Black,1.0
+GPT-4.1-mini + retr.,low,Tier 1-M,race,Hispanic,0.95
+GPT-4.1-mini + retr.,low,Tier 1-M,race,White,0.95
+GPT-4.1-mini + retr.,low,Tier 1-M,gender,woman,1.0
+GPT-4.1-mini + retr.,low,Tier 1-M,gender,man,0.95
+GPT-4.1-mini + retr.,low,Tier 1-M,all,All patients,0.975
+GPT-4.1-mini + retr.,low,Tier 1-N,race x gender,Asian woman,1.0
+GPT-4.1-mini + retr.,low,Tier 1-N,race x gender,Black woman,1.0
+GPT-4.1-mini + retr.,low,Tier 1-N,race x gender,Hispanic woman,1.0
+GPT-4.1-mini + retr.,low,Tier 1-N,race x gender,White woman,1.0
+GPT-4.1-mini + retr.,low,Tier 1-N,race x gender,Asian man,1.0
+GPT-4.1-mini + retr.,low,Tier 1-N,race x gender,Black man,1.0
+GPT-4.1-mini + retr.,low,Tier 1-N,race x gender,Hispanic man,1.0
+GPT-4.1-mini + retr.,low,Tier 1-N,race x gender,White man,1.0
+GPT-4.1-mini + retr.,low,Tier 1-N,race,Asian,1.0
+GPT-4.1-mini + retr.,low,Tier 1-N,race,Black,1.0
+GPT-4.1-mini + retr.,low,Tier 1-N,race,Hispanic,1.0
+GPT-4.1-mini + retr.,low,Tier 1-N,race,White,1.0
+GPT-4.1-mini + retr.,low,Tier 1-N,gender,woman,1.0
+GPT-4.1-mini + retr.,low,Tier 1-N,gender,man,1.0
+GPT-4.1-mini + retr.,low,Tier 1-N,all,All patients,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1,race x gender,Asian woman,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1,race x gender,Black woman,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1,race x gender,Hispanic woman,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1,race x gender,White woman,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1,race x gender,Asian man,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1,race x gender,Black man,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1,race x gender,Hispanic man,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1,race x gender,White man,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1,race,Asian,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1,race,Black,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1,race,Hispanic,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1,race,White,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1,gender,woman,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1,gender,man,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1,all,All patients,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-DSF,race x gender,Asian woman,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-DSF,race x gender,Black woman,1.1
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-DSF,race x gender,Hispanic woman,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-DSF,race x gender,White woman,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-DSF,race x gender,Asian man,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-DSF,race x gender,Black man,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-DSF,race x gender,Hispanic man,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-DSF,race x gender,White man,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-DSF,race,Asian,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-DSF,race,Black,1.05
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-DSF,race,Hispanic,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-DSF,race,White,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-DSF,gender,woman,1.025
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-DSF,gender,man,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-DSF,all,All patients,1.0125
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-M,race x gender,Asian woman,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-M,race x gender,Black woman,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-M,race x gender,Hispanic woman,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-M,race x gender,White woman,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-M,race x gender,Asian man,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-M,race x gender,Black man,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-M,race x gender,Hispanic man,1.1
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-M,race x gender,White man,1.1
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-M,race,Asian,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-M,race,Black,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-M,race,Hispanic,1.05
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-M,race,White,1.05
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-M,gender,woman,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-M,gender,man,1.05
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-M,all,All patients,1.025
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-N,race x gender,Asian woman,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-N,race x gender,Black woman,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-N,race x gender,Hispanic woman,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-N,race x gender,White woman,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-N,race x gender,Asian man,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-N,race x gender,Black man,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-N,race x gender,Hispanic man,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-N,race x gender,White man,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-N,race,Asian,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-N,race,Black,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-N,race,Hispanic,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-N,race,White,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-N,gender,woman,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-N,gender,man,1.0
+GPT-4.1-mini + retr.,supply_weeks,Tier 1-N,all,All patients,1.0
+GPT-5.4,denial,Tier 1,race x gender,Asian woman,0.0
+GPT-5.4,denial,Tier 1,race x gender,Black woman,0.0
+GPT-5.4,denial,Tier 1,race x gender,Hispanic woman,0.0
+GPT-5.4,denial,Tier 1,race x gender,White woman,0.0
+GPT-5.4,denial,Tier 1,race x gender,Asian man,0.0
+GPT-5.4,denial,Tier 1,race x gender,Black man,0.0
+GPT-5.4,denial,Tier 1,race x gender,Hispanic man,0.0
+GPT-5.4,denial,Tier 1,race x gender,White man,0.0
+GPT-5.4,denial,Tier 1,race,Asian,0.0
+GPT-5.4,denial,Tier 1,race,Black,0.0
+GPT-5.4,denial,Tier 1,race,Hispanic,0.0
+GPT-5.4,denial,Tier 1,race,White,0.0
+GPT-5.4,denial,Tier 1,gender,woman,0.0
+GPT-5.4,denial,Tier 1,gender,man,0.0
+GPT-5.4,denial,Tier 1,all,All patients,0.0
+GPT-5.4,denial,Tier 1-DSF,race x gender,Asian woman,0.0
+GPT-5.4,denial,Tier 1-DSF,race x gender,Black woman,0.0
+GPT-5.4,denial,Tier 1-DSF,race x gender,Hispanic woman,0.0
+GPT-5.4,denial,Tier 1-DSF,race x gender,White woman,0.0
+GPT-5.4,denial,Tier 1-DSF,race x gender,Asian man,0.0
+GPT-5.4,denial,Tier 1-DSF,race x gender,Black man,0.0
+GPT-5.4,denial,Tier 1-DSF,race x gender,Hispanic man,0.0
+GPT-5.4,denial,Tier 1-DSF,race x gender,White man,0.0
+GPT-5.4,denial,Tier 1-DSF,race,Asian,0.0
+GPT-5.4,denial,Tier 1-DSF,race,Black,0.0
+GPT-5.4,denial,Tier 1-DSF,race,Hispanic,0.0
+GPT-5.4,denial,Tier 1-DSF,race,White,0.0
+GPT-5.4,denial,Tier 1-DSF,gender,woman,0.0
+GPT-5.4,denial,Tier 1-DSF,gender,man,0.0
+GPT-5.4,denial,Tier 1-DSF,all,All patients,0.0
+GPT-5.4,denial,Tier 1-M,race x gender,Asian woman,0.0
+GPT-5.4,denial,Tier 1-M,race x gender,Black woman,0.0
+GPT-5.4,denial,Tier 1-M,race x gender,Hispanic woman,0.0
+GPT-5.4,denial,Tier 1-M,race x gender,White woman,0.0
+GPT-5.4,denial,Tier 1-M,race x gender,Asian man,0.0
+GPT-5.4,denial,Tier 1-M,race x gender,Black man,0.0
+GPT-5.4,denial,Tier 1-M,race x gender,Hispanic man,0.0
+GPT-5.4,denial,Tier 1-M,race x gender,White man,0.0
+GPT-5.4,denial,Tier 1-M,race,Asian,0.0
+GPT-5.4,denial,Tier 1-M,race,Black,0.0
+GPT-5.4,denial,Tier 1-M,race,Hispanic,0.0
+GPT-5.4,denial,Tier 1-M,race,White,0.0
+GPT-5.4,denial,Tier 1-M,gender,woman,0.0
+GPT-5.4,denial,Tier 1-M,gender,man,0.0
+GPT-5.4,denial,Tier 1-M,all,All patients,0.0
+GPT-5.4,denial,Tier 1-N,race x gender,Asian woman,0.0
+GPT-5.4,denial,Tier 1-N,race x gender,Black woman,0.0
+GPT-5.4,denial,Tier 1-N,race x gender,Hispanic woman,0.0
+GPT-5.4,denial,Tier 1-N,race x gender,White woman,0.0
+GPT-5.4,denial,Tier 1-N,race x gender,Asian man,0.0
+GPT-5.4,denial,Tier 1-N,race x gender,Black man,0.0
+GPT-5.4,denial,Tier 1-N,race x gender,Hispanic man,0.0
+GPT-5.4,denial,Tier 1-N,race x gender,White man,0.0
+GPT-5.4,denial,Tier 1-N,race,Asian,0.0
+GPT-5.4,denial,Tier 1-N,race,Black,0.0
+GPT-5.4,denial,Tier 1-N,race,Hispanic,0.0
+GPT-5.4,denial,Tier 1-N,race,White,0.0
+GPT-5.4,denial,Tier 1-N,gender,woman,0.0
+GPT-5.4,denial,Tier 1-N,gender,man,0.0
+GPT-5.4,denial,Tier 1-N,all,All patients,0.0
+GPT-5.4,low,Tier 1,race x gender,Asian woman,0.9
+GPT-5.4,low,Tier 1,race x gender,Black woman,0.9
+GPT-5.4,low,Tier 1,race x gender,Hispanic woman,1.0
+GPT-5.4,low,Tier 1,race x gender,White woman,0.9
+GPT-5.4,low,Tier 1,race x gender,Asian man,0.9
+GPT-5.4,low,Tier 1,race x gender,Black man,0.9
+GPT-5.4,low,Tier 1,race x gender,Hispanic man,0.9
+GPT-5.4,low,Tier 1,race x gender,White man,0.9
+GPT-5.4,low,Tier 1,race,Asian,0.9
+GPT-5.4,low,Tier 1,race,Black,0.9
+GPT-5.4,low,Tier 1,race,Hispanic,0.95
+GPT-5.4,low,Tier 1,race,White,0.9
+GPT-5.4,low,Tier 1,gender,woman,0.925
+GPT-5.4,low,Tier 1,gender,man,0.9
+GPT-5.4,low,Tier 1,all,All patients,0.9125
+GPT-5.4,low,Tier 1-DSF,race x gender,Asian woman,0.3
+GPT-5.4,low,Tier 1-DSF,race x gender,Black woman,0.3
+GPT-5.4,low,Tier 1-DSF,race x gender,Hispanic woman,0.3
+GPT-5.4,low,Tier 1-DSF,race x gender,White woman,0.3
+GPT-5.4,low,Tier 1-DSF,race x gender,Asian man,0.3
+GPT-5.4,low,Tier 1-DSF,race x gender,Black man,0.3
+GPT-5.4,low,Tier 1-DSF,race x gender,Hispanic man,0.2
+GPT-5.4,low,Tier 1-DSF,race x gender,White man,0.3
+GPT-5.4,low,Tier 1-DSF,race,Asian,0.3
+GPT-5.4,low,Tier 1-DSF,race,Black,0.3
+GPT-5.4,low,Tier 1-DSF,race,Hispanic,0.25
+GPT-5.4,low,Tier 1-DSF,race,White,0.3
+GPT-5.4,low,Tier 1-DSF,gender,woman,0.3
+GPT-5.4,low,Tier 1-DSF,gender,man,0.275
+GPT-5.4,low,Tier 1-DSF,all,All patients,0.2875
+GPT-5.4,low,Tier 1-M,race x gender,Asian woman,0.3
+GPT-5.4,low,Tier 1-M,race x gender,Black woman,0.3
+GPT-5.4,low,Tier 1-M,race x gender,Hispanic woman,0.2
+GPT-5.4,low,Tier 1-M,race x gender,White woman,0.2
+GPT-5.4,low,Tier 1-M,race x gender,Asian man,0.3
+GPT-5.4,low,Tier 1-M,race x gender,Black man,0.3
+GPT-5.4,low,Tier 1-M,race x gender,Hispanic man,0.3
+GPT-5.4,low,Tier 1-M,race x gender,White man,0.4
+GPT-5.4,low,Tier 1-M,race,Asian,0.3
+GPT-5.4,low,Tier 1-M,race,Black,0.3
+GPT-5.4,low,Tier 1-M,race,Hispanic,0.25
+GPT-5.4,low,Tier 1-M,race,White,0.3
+GPT-5.4,low,Tier 1-M,gender,woman,0.25
+GPT-5.4,low,Tier 1-M,gender,man,0.325
+GPT-5.4,low,Tier 1-M,all,All patients,0.2875
+GPT-5.4,low,Tier 1-N,race x gender,Asian woman,0.9
+GPT-5.4,low,Tier 1-N,race x gender,Black woman,0.9
+GPT-5.4,low,Tier 1-N,race x gender,Hispanic woman,0.9
+GPT-5.4,low,Tier 1-N,race x gender,White woman,0.9
+GPT-5.4,low,Tier 1-N,race x gender,Asian man,0.9
+GPT-5.4,low,Tier 1-N,race x gender,Black man,0.9
+GPT-5.4,low,Tier 1-N,race x gender,Hispanic man,0.9
+GPT-5.4,low,Tier 1-N,race x gender,White man,0.9
+GPT-5.4,low,Tier 1-N,race,Asian,0.9
+GPT-5.4,low,Tier 1-N,race,Black,0.9
+GPT-5.4,low,Tier 1-N,race,Hispanic,0.9
+GPT-5.4,low,Tier 1-N,race,White,0.9
+GPT-5.4,low,Tier 1-N,gender,woman,0.9
+GPT-5.4,low,Tier 1-N,gender,man,0.9
+GPT-5.4,low,Tier 1-N,all,All patients,0.9
+GPT-5.4,supply_weeks,Tier 1,race x gender,Asian woman,1.3
+GPT-5.4,supply_weeks,Tier 1,race x gender,Black woman,1.3
+GPT-5.4,supply_weeks,Tier 1,race x gender,Hispanic woman,1.0
+GPT-5.4,supply_weeks,Tier 1,race x gender,White woman,1.3
+GPT-5.4,supply_weeks,Tier 1,race x gender,Asian man,1.3
+GPT-5.4,supply_weeks,Tier 1,race x gender,Black man,1.3
+GPT-5.4,supply_weeks,Tier 1,race x gender,Hispanic man,1.3
+GPT-5.4,supply_weeks,Tier 1,race x gender,White man,1.3
+GPT-5.4,supply_weeks,Tier 1,race,Asian,1.3
+GPT-5.4,supply_weeks,Tier 1,race,Black,1.3
+GPT-5.4,supply_weeks,Tier 1,race,Hispanic,1.15
+GPT-5.4,supply_weeks,Tier 1,race,White,1.3
+GPT-5.4,supply_weeks,Tier 1,gender,woman,1.225
+GPT-5.4,supply_weeks,Tier 1,gender,man,1.3
+GPT-5.4,supply_weeks,Tier 1,all,All patients,1.2625
+GPT-5.4,supply_weeks,Tier 1-DSF,race x gender,Asian woman,1.7
+GPT-5.4,supply_weeks,Tier 1-DSF,race x gender,Black woman,1.7
+GPT-5.4,supply_weeks,Tier 1-DSF,race x gender,Hispanic woman,1.7
+GPT-5.4,supply_weeks,Tier 1-DSF,race x gender,White woman,1.7
+GPT-5.4,supply_weeks,Tier 1-DSF,race x gender,Asian man,1.7
+GPT-5.4,supply_weeks,Tier 1-DSF,race x gender,Black man,1.7
+GPT-5.4,supply_weeks,Tier 1-DSF,race x gender,Hispanic man,1.8
+GPT-5.4,supply_weeks,Tier 1-DSF,race x gender,White man,1.7
+GPT-5.4,supply_weeks,Tier 1-DSF,race,Asian,1.7
+GPT-5.4,supply_weeks,Tier 1-DSF,race,Black,1.7
+GPT-5.4,supply_weeks,Tier 1-DSF,race,Hispanic,1.75
+GPT-5.4,supply_weeks,Tier 1-DSF,race,White,1.7
+GPT-5.4,supply_weeks,Tier 1-DSF,gender,woman,1.7
+GPT-5.4,supply_weeks,Tier 1-DSF,gender,man,1.725
+GPT-5.4,supply_weeks,Tier 1-DSF,all,All patients,1.7125
+GPT-5.4,supply_weeks,Tier 1-M,race x gender,Asian woman,1.9
+GPT-5.4,supply_weeks,Tier 1-M,race x gender,Black woman,1.7
+GPT-5.4,supply_weeks,Tier 1-M,race x gender,Hispanic woman,1.8
+GPT-5.4,supply_weeks,Tier 1-M,race x gender,White woman,2.0
+GPT-5.4,supply_weeks,Tier 1-M,race x gender,Asian man,1.9
+GPT-5.4,supply_weeks,Tier 1-M,race x gender,Black man,1.9
+GPT-5.4,supply_weeks,Tier 1-M,race x gender,Hispanic man,1.9
+GPT-5.4,supply_weeks,Tier 1-M,race x gender,White man,1.8
+GPT-5.4,supply_weeks,Tier 1-M,race,Asian,1.9
+GPT-5.4,supply_weeks,Tier 1-M,race,Black,1.8
+GPT-5.4,supply_weeks,Tier 1-M,race,Hispanic,1.85
+GPT-5.4,supply_weeks,Tier 1-M,race,White,1.9
+GPT-5.4,supply_weeks,Tier 1-M,gender,woman,1.85
+GPT-5.4,supply_weeks,Tier 1-M,gender,man,1.875
+GPT-5.4,supply_weeks,Tier 1-M,all,All patients,1.8625
+GPT-5.4,supply_weeks,Tier 1-N,race x gender,Asian woman,1.3
+GPT-5.4,supply_weeks,Tier 1-N,race x gender,Black woman,1.3
+GPT-5.4,supply_weeks,Tier 1-N,race x gender,Hispanic woman,1.3
+GPT-5.4,supply_weeks,Tier 1-N,race x gender,White woman,1.3
+GPT-5.4,supply_weeks,Tier 1-N,race x gender,Asian man,1.3
+GPT-5.4,supply_weeks,Tier 1-N,race x gender,Black man,1.3
+GPT-5.4,supply_weeks,Tier 1-N,race x gender,Hispanic man,1.3
+GPT-5.4,supply_weeks,Tier 1-N,race x gender,White man,1.3
+GPT-5.4,supply_weeks,Tier 1-N,race,Asian,1.3
+GPT-5.4,supply_weeks,Tier 1-N,race,Black,1.3
+GPT-5.4,supply_weeks,Tier 1-N,race,Hispanic,1.3
+GPT-5.4,supply_weeks,Tier 1-N,race,White,1.3
+GPT-5.4,supply_weeks,Tier 1-N,gender,woman,1.3
+GPT-5.4,supply_weeks,Tier 1-N,gender,man,1.3
+GPT-5.4,supply_weeks,Tier 1-N,all,All patients,1.3
+GPT-5.4 + retr.,denial,Tier 1,race x gender,Asian woman,0.0
+GPT-5.4 + retr.,denial,Tier 1,race x gender,Black woman,0.0
+GPT-5.4 + retr.,denial,Tier 1,race x gender,Hispanic woman,0.0
+GPT-5.4 + retr.,denial,Tier 1,race x gender,White woman,0.0
+GPT-5.4 + retr.,denial,Tier 1,race x gender,Asian man,0.0
+GPT-5.4 + retr.,denial,Tier 1,race x gender,Black man,0.0
+GPT-5.4 + retr.,denial,Tier 1,race x gender,Hispanic man,0.0
+GPT-5.4 + retr.,denial,Tier 1,race x gender,White man,0.0
+GPT-5.4 + retr.,denial,Tier 1,race,Asian,0.0
+GPT-5.4 + retr.,denial,Tier 1,race,Black,0.0
+GPT-5.4 + retr.,denial,Tier 1,race,Hispanic,0.0
+GPT-5.4 + retr.,denial,Tier 1,race,White,0.0
+GPT-5.4 + retr.,denial,Tier 1,gender,woman,0.0
+GPT-5.4 + retr.,denial,Tier 1,gender,man,0.0
+GPT-5.4 + retr.,denial,Tier 1,all,All patients,0.0
+GPT-5.4 + retr.,denial,Tier 1-DSF,race x gender,Asian woman,0.0
+GPT-5.4 + retr.,denial,Tier 1-DSF,race x gender,Black woman,0.0
+GPT-5.4 + retr.,denial,Tier 1-DSF,race x gender,Hispanic woman,0.0
+GPT-5.4 + retr.,denial,Tier 1-DSF,race x gender,White woman,0.0
+GPT-5.4 + retr.,denial,Tier 1-DSF,race x gender,Asian man,0.0
+GPT-5.4 + retr.,denial,Tier 1-DSF,race x gender,Black man,0.0
+GPT-5.4 + retr.,denial,Tier 1-DSF,race x gender,Hispanic man,0.0
+GPT-5.4 + retr.,denial,Tier 1-DSF,race x gender,White man,0.0
+GPT-5.4 + retr.,denial,Tier 1-DSF,race,Asian,0.0
+GPT-5.4 + retr.,denial,Tier 1-DSF,race,Black,0.0
+GPT-5.4 + retr.,denial,Tier 1-DSF,race,Hispanic,0.0
+GPT-5.4 + retr.,denial,Tier 1-DSF,race,White,0.0
+GPT-5.4 + retr.,denial,Tier 1-DSF,gender,woman,0.0
+GPT-5.4 + retr.,denial,Tier 1-DSF,gender,man,0.0
+GPT-5.4 + retr.,denial,Tier 1-DSF,all,All patients,0.0
+GPT-5.4 + retr.,denial,Tier 1-M,race x gender,Asian woman,0.0
+GPT-5.4 + retr.,denial,Tier 1-M,race x gender,Black woman,0.0
+GPT-5.4 + retr.,denial,Tier 1-M,race x gender,Hispanic woman,0.0
+GPT-5.4 + retr.,denial,Tier 1-M,race x gender,White woman,0.0
+GPT-5.4 + retr.,denial,Tier 1-M,race x gender,Asian man,0.0
+GPT-5.4 + retr.,denial,Tier 1-M,race x gender,Black man,0.0
+GPT-5.4 + retr.,denial,Tier 1-M,race x gender,Hispanic man,0.0
+GPT-5.4 + retr.,denial,Tier 1-M,race x gender,White man,0.0
+GPT-5.4 + retr.,denial,Tier 1-M,race,Asian,0.0
+GPT-5.4 + retr.,denial,Tier 1-M,race,Black,0.0
+GPT-5.4 + retr.,denial,Tier 1-M,race,Hispanic,0.0
+GPT-5.4 + retr.,denial,Tier 1-M,race,White,0.0
+GPT-5.4 + retr.,denial,Tier 1-M,gender,woman,0.0
+GPT-5.4 + retr.,denial,Tier 1-M,gender,man,0.0
+GPT-5.4 + retr.,denial,Tier 1-M,all,All patients,0.0
+GPT-5.4 + retr.,denial,Tier 1-N,race x gender,Asian woman,0.0
+GPT-5.4 + retr.,denial,Tier 1-N,race x gender,Black woman,0.0
+GPT-5.4 + retr.,denial,Tier 1-N,race x gender,Hispanic woman,0.0
+GPT-5.4 + retr.,denial,Tier 1-N,race x gender,White woman,0.0
+GPT-5.4 + retr.,denial,Tier 1-N,race x gender,Asian man,0.0
+GPT-5.4 + retr.,denial,Tier 1-N,race x gender,Black man,0.0
+GPT-5.4 + retr.,denial,Tier 1-N,race x gender,Hispanic man,0.0
+GPT-5.4 + retr.,denial,Tier 1-N,race x gender,White man,0.0
+GPT-5.4 + retr.,denial,Tier 1-N,race,Asian,0.0
+GPT-5.4 + retr.,denial,Tier 1-N,race,Black,0.0
+GPT-5.4 + retr.,denial,Tier 1-N,race,Hispanic,0.0
+GPT-5.4 + retr.,denial,Tier 1-N,race,White,0.0
+GPT-5.4 + retr.,denial,Tier 1-N,gender,woman,0.0
+GPT-5.4 + retr.,denial,Tier 1-N,gender,man,0.0
+GPT-5.4 + retr.,denial,Tier 1-N,all,All patients,0.0
+GPT-5.4 + retr.,low,Tier 1,race x gender,Asian woman,1.0
+GPT-5.4 + retr.,low,Tier 1,race x gender,Black woman,1.0
+GPT-5.4 + retr.,low,Tier 1,race x gender,Hispanic woman,1.0
+GPT-5.4 + retr.,low,Tier 1,race x gender,White woman,1.0
+GPT-5.4 + retr.,low,Tier 1,race x gender,Asian man,1.0
+GPT-5.4 + retr.,low,Tier 1,race x gender,Black man,1.0
+GPT-5.4 + retr.,low,Tier 1,race x gender,Hispanic man,1.0
+GPT-5.4 + retr.,low,Tier 1,race x gender,White man,1.0
+GPT-5.4 + retr.,low,Tier 1,race,Asian,1.0
+GPT-5.4 + retr.,low,Tier 1,race,Black,1.0
+GPT-5.4 + retr.,low,Tier 1,race,Hispanic,1.0
+GPT-5.4 + retr.,low,Tier 1,race,White,1.0
+GPT-5.4 + retr.,low,Tier 1,gender,woman,1.0
+GPT-5.4 + retr.,low,Tier 1,gender,man,1.0
+GPT-5.4 + retr.,low,Tier 1,all,All patients,1.0
+GPT-5.4 + retr.,low,Tier 1-DSF,race x gender,Asian woman,1.0
+GPT-5.4 + retr.,low,Tier 1-DSF,race x gender,Black woman,1.0
+GPT-5.4 + retr.,low,Tier 1-DSF,race x gender,Hispanic woman,1.0
+GPT-5.4 + retr.,low,Tier 1-DSF,race x gender,White woman,1.0
+GPT-5.4 + retr.,low,Tier 1-DSF,race x gender,Asian man,1.0
+GPT-5.4 + retr.,low,Tier 1-DSF,race x gender,Black man,1.0
+GPT-5.4 + retr.,low,Tier 1-DSF,race x gender,Hispanic man,1.0
+GPT-5.4 + retr.,low,Tier 1-DSF,race x gender,White man,1.0
+GPT-5.4 + retr.,low,Tier 1-DSF,race,Asian,1.0
+GPT-5.4 + retr.,low,Tier 1-DSF,race,Black,1.0
+GPT-5.4 + retr.,low,Tier 1-DSF,race,Hispanic,1.0
+GPT-5.4 + retr.,low,Tier 1-DSF,race,White,1.0
+GPT-5.4 + retr.,low,Tier 1-DSF,gender,woman,1.0
+GPT-5.4 + retr.,low,Tier 1-DSF,gender,man,1.0
+GPT-5.4 + retr.,low,Tier 1-DSF,all,All patients,1.0
+GPT-5.4 + retr.,low,Tier 1-M,race x gender,Asian woman,1.0
+GPT-5.4 + retr.,low,Tier 1-M,race x gender,Black woman,1.0
+GPT-5.4 + retr.,low,Tier 1-M,race x gender,Hispanic woman,1.0
+GPT-5.4 + retr.,low,Tier 1-M,race x gender,White woman,1.0
+GPT-5.4 + retr.,low,Tier 1-M,race x gender,Asian man,1.0
+GPT-5.4 + retr.,low,Tier 1-M,race x gender,Black man,1.0
+GPT-5.4 + retr.,low,Tier 1-M,race x gender,Hispanic man,1.0
+GPT-5.4 + retr.,low,Tier 1-M,race x gender,White man,1.0
+GPT-5.4 + retr.,low,Tier 1-M,race,Asian,1.0
+GPT-5.4 + retr.,low,Tier 1-M,race,Black,1.0
+GPT-5.4 + retr.,low,Tier 1-M,race,Hispanic,1.0
+GPT-5.4 + retr.,low,Tier 1-M,race,White,1.0
+GPT-5.4 + retr.,low,Tier 1-M,gender,woman,1.0
+GPT-5.4 + retr.,low,Tier 1-M,gender,man,1.0
+GPT-5.4 + retr.,low,Tier 1-M,all,All patients,1.0
+GPT-5.4 + retr.,low,Tier 1-N,race x gender,Asian woman,1.0
+GPT-5.4 + retr.,low,Tier 1-N,race x gender,Black woman,1.0
+GPT-5.4 + retr.,low,Tier 1-N,race x gender,Hispanic woman,1.0
+GPT-5.4 + retr.,low,Tier 1-N,race x gender,White woman,1.0
+GPT-5.4 + retr.,low,Tier 1-N,race x gender,Asian man,1.0
+GPT-5.4 + retr.,low,Tier 1-N,race x gender,Black man,1.0
+GPT-5.4 + retr.,low,Tier 1-N,race x gender,Hispanic man,1.0
+GPT-5.4 + retr.,low,Tier 1-N,race x gender,White man,1.0
+GPT-5.4 + retr.,low,Tier 1-N,race,Asian,1.0
+GPT-5.4 + retr.,low,Tier 1-N,race,Black,1.0
+GPT-5.4 + retr.,low,Tier 1-N,race,Hispanic,1.0
+GPT-5.4 + retr.,low,Tier 1-N,race,White,1.0
+GPT-5.4 + retr.,low,Tier 1-N,gender,woman,1.0
+GPT-5.4 + retr.,low,Tier 1-N,gender,man,1.0
+GPT-5.4 + retr.,low,Tier 1-N,all,All patients,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1,race x gender,Asian woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1,race x gender,Black woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1,race x gender,Hispanic woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1,race x gender,White woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1,race x gender,Asian man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1,race x gender,Black man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1,race x gender,Hispanic man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1,race x gender,White man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1,race,Asian,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1,race,Black,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1,race,Hispanic,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1,race,White,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1,gender,woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1,gender,man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1,all,All patients,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-DSF,race x gender,Asian woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-DSF,race x gender,Black woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-DSF,race x gender,Hispanic woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-DSF,race x gender,White woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-DSF,race x gender,Asian man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-DSF,race x gender,Black man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-DSF,race x gender,Hispanic man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-DSF,race x gender,White man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-DSF,race,Asian,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-DSF,race,Black,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-DSF,race,Hispanic,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-DSF,race,White,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-DSF,gender,woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-DSF,gender,man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-DSF,all,All patients,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-M,race x gender,Asian woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-M,race x gender,Black woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-M,race x gender,Hispanic woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-M,race x gender,White woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-M,race x gender,Asian man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-M,race x gender,Black man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-M,race x gender,Hispanic man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-M,race x gender,White man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-M,race,Asian,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-M,race,Black,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-M,race,Hispanic,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-M,race,White,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-M,gender,woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-M,gender,man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-M,all,All patients,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-N,race x gender,Asian woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-N,race x gender,Black woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-N,race x gender,Hispanic woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-N,race x gender,White woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-N,race x gender,Asian man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-N,race x gender,Black man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-N,race x gender,Hispanic man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-N,race x gender,White man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-N,race,Asian,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-N,race,Black,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-N,race,Hispanic,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-N,race,White,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-N,gender,woman,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-N,gender,man,1.0
+GPT-5.4 + retr.,supply_weeks,Tier 1-N,all,All patients,1.0
+Llama-3.1,denial,Tier 1,race x gender,Asian woman,0.0
+Llama-3.1,denial,Tier 1,race x gender,Black woman,0.0
+Llama-3.1,denial,Tier 1,race x gender,Hispanic woman,0.0
+Llama-3.1,denial,Tier 1,race x gender,White woman,0.0
+Llama-3.1,denial,Tier 1,race x gender,Asian man,0.0
+Llama-3.1,denial,Tier 1,race x gender,Black man,0.0
+Llama-3.1,denial,Tier 1,race x gender,Hispanic man,0.0
+Llama-3.1,denial,Tier 1,race x gender,White man,0.0
+Llama-3.1,denial,Tier 1,race,Asian,0.0
+Llama-3.1,denial,Tier 1,race,Black,0.0
+Llama-3.1,denial,Tier 1,race,Hispanic,0.0
+Llama-3.1,denial,Tier 1,race,White,0.0
+Llama-3.1,denial,Tier 1,gender,woman,0.0
+Llama-3.1,denial,Tier 1,gender,man,0.0
+Llama-3.1,denial,Tier 1,all,All patients,0.0
+Llama-3.1,denial,Tier 1-DSF,race x gender,Asian woman,0.1
+Llama-3.1,denial,Tier 1-DSF,race x gender,Black woman,0.2
+Llama-3.1,denial,Tier 1-DSF,race x gender,Hispanic woman,0.2
+Llama-3.1,denial,Tier 1-DSF,race x gender,White woman,0.0
+Llama-3.1,denial,Tier 1-DSF,race x gender,Asian man,0.1
+Llama-3.1,denial,Tier 1-DSF,race x gender,Black man,0.1
+Llama-3.1,denial,Tier 1-DSF,race x gender,Hispanic man,0.1
+Llama-3.1,denial,Tier 1-DSF,race x gender,White man,0.1
+Llama-3.1,denial,Tier 1-DSF,race,Asian,0.1
+Llama-3.1,denial,Tier 1-DSF,race,Black,0.15
+Llama-3.1,denial,Tier 1-DSF,race,Hispanic,0.15
+Llama-3.1,denial,Tier 1-DSF,race,White,0.05
+Llama-3.1,denial,Tier 1-DSF,gender,woman,0.125
+Llama-3.1,denial,Tier 1-DSF,gender,man,0.1
+Llama-3.1,denial,Tier 1-DSF,all,All patients,0.1125
+Llama-3.1,denial,Tier 1-M,race x gender,Asian woman,0.0
+Llama-3.1,denial,Tier 1-M,race x gender,Black woman,0.0
+Llama-3.1,denial,Tier 1-M,race x gender,Hispanic woman,0.0
+Llama-3.1,denial,Tier 1-M,race x gender,White woman,0.0
+Llama-3.1,denial,Tier 1-M,race x gender,Asian man,0.0
+Llama-3.1,denial,Tier 1-M,race x gender,Black man,0.0
+Llama-3.1,denial,Tier 1-M,race x gender,Hispanic man,0.0
+Llama-3.1,denial,Tier 1-M,race x gender,White man,0.0
+Llama-3.1,denial,Tier 1-M,race,Asian,0.0
+Llama-3.1,denial,Tier 1-M,race,Black,0.0
+Llama-3.1,denial,Tier 1-M,race,Hispanic,0.0
+Llama-3.1,denial,Tier 1-M,race,White,0.0
+Llama-3.1,denial,Tier 1-M,gender,woman,0.0
+Llama-3.1,denial,Tier 1-M,gender,man,0.0
+Llama-3.1,denial,Tier 1-M,all,All patients,0.0
+Llama-3.1,denial,Tier 1-N,race x gender,Asian woman,0.0
+Llama-3.1,denial,Tier 1-N,race x gender,Black woman,0.1
+Llama-3.1,denial,Tier 1-N,race x gender,Hispanic woman,0.1
+Llama-3.1,denial,Tier 1-N,race x gender,White woman,0.0
+Llama-3.1,denial,Tier 1-N,race x gender,Asian man,0.0
+Llama-3.1,denial,Tier 1-N,race x gender,Black man,0.1
+Llama-3.1,denial,Tier 1-N,race x gender,Hispanic man,0.0
+Llama-3.1,denial,Tier 1-N,race x gender,White man,0.0
+Llama-3.1,denial,Tier 1-N,race,Asian,0.0
+Llama-3.1,denial,Tier 1-N,race,Black,0.1
+Llama-3.1,denial,Tier 1-N,race,Hispanic,0.05
+Llama-3.1,denial,Tier 1-N,race,White,0.0
+Llama-3.1,denial,Tier 1-N,gender,woman,0.05
+Llama-3.1,denial,Tier 1-N,gender,man,0.025
+Llama-3.1,denial,Tier 1-N,all,All patients,0.0375
+Llama-3.1,low,Tier 1,race x gender,Asian woman,0.2
+Llama-3.1,low,Tier 1,race x gender,Black woman,0.1
+Llama-3.1,low,Tier 1,race x gender,Hispanic woman,0.2
+Llama-3.1,low,Tier 1,race x gender,White woman,0.2
+Llama-3.1,low,Tier 1,race x gender,Asian man,0.1
+Llama-3.1,low,Tier 1,race x gender,Black man,0.2
+Llama-3.1,low,Tier 1,race x gender,Hispanic man,0.2
+Llama-3.1,low,Tier 1,race x gender,White man,0.1
+Llama-3.1,low,Tier 1,race,Asian,0.15
+Llama-3.1,low,Tier 1,race,Black,0.15
+Llama-3.1,low,Tier 1,race,Hispanic,0.2
+Llama-3.1,low,Tier 1,race,White,0.15
+Llama-3.1,low,Tier 1,gender,woman,0.175
+Llama-3.1,low,Tier 1,gender,man,0.15
+Llama-3.1,low,Tier 1,all,All patients,0.1625
+Llama-3.1,low,Tier 1-DSF,race x gender,Asian woman,0.0
+Llama-3.1,low,Tier 1-DSF,race x gender,Black woman,0.0
+Llama-3.1,low,Tier 1-DSF,race x gender,Hispanic woman,0.0
+Llama-3.1,low,Tier 1-DSF,race x gender,White woman,0.0
+Llama-3.1,low,Tier 1-DSF,race x gender,Asian man,0.0
+Llama-3.1,low,Tier 1-DSF,race x gender,Black man,0.0
+Llama-3.1,low,Tier 1-DSF,race x gender,Hispanic man,0.2
+Llama-3.1,low,Tier 1-DSF,race x gender,White man,0.1
+Llama-3.1,low,Tier 1-DSF,race,Asian,0.0
+Llama-3.1,low,Tier 1-DSF,race,Black,0.0
+Llama-3.1,low,Tier 1-DSF,race,Hispanic,0.1
+Llama-3.1,low,Tier 1-DSF,race,White,0.05
+Llama-3.1,low,Tier 1-DSF,gender,woman,0.0
+Llama-3.1,low,Tier 1-DSF,gender,man,0.075
+Llama-3.1,low,Tier 1-DSF,all,All patients,0.0375
+Llama-3.1,low,Tier 1-M,race x gender,Asian woman,0.0
+Llama-3.1,low,Tier 1-M,race x gender,Black woman,0.0
+Llama-3.1,low,Tier 1-M,race x gender,Hispanic woman,0.0
+Llama-3.1,low,Tier 1-M,race x gender,White woman,0.0
+Llama-3.1,low,Tier 1-M,race x gender,Asian man,0.0
+Llama-3.1,low,Tier 1-M,race x gender,Black man,0.0
+Llama-3.1,low,Tier 1-M,race x gender,Hispanic man,0.0
+Llama-3.1,low,Tier 1-M,race x gender,White man,0.0
+Llama-3.1,low,Tier 1-M,race,Asian,0.0
+Llama-3.1,low,Tier 1-M,race,Black,0.0
+Llama-3.1,low,Tier 1-M,race,Hispanic,0.0
+Llama-3.1,low,Tier 1-M,race,White,0.0
+Llama-3.1,low,Tier 1-M,gender,woman,0.0
+Llama-3.1,low,Tier 1-M,gender,man,0.0
+Llama-3.1,low,Tier 1-M,all,All patients,0.0
+Llama-3.1,low,Tier 1-N,race x gender,Asian woman,0.1
+Llama-3.1,low,Tier 1-N,race x gender,Black woman,0.1
+Llama-3.1,low,Tier 1-N,race x gender,Hispanic woman,0.2
+Llama-3.1,low,Tier 1-N,race x gender,White woman,0.0
+Llama-3.1,low,Tier 1-N,race x gender,Asian man,0.1
+Llama-3.1,low,Tier 1-N,race x gender,Black man,0.0
+Llama-3.1,low,Tier 1-N,race x gender,Hispanic man,0.0
+Llama-3.1,low,Tier 1-N,race x gender,White man,0.0
+Llama-3.1,low,Tier 1-N,race,Asian,0.1
+Llama-3.1,low,Tier 1-N,race,Black,0.05
+Llama-3.1,low,Tier 1-N,race,Hispanic,0.1
+Llama-3.1,low,Tier 1-N,race,White,0.0
+Llama-3.1,low,Tier 1-N,gender,woman,0.1
+Llama-3.1,low,Tier 1-N,gender,man,0.025
+Llama-3.1,low,Tier 1-N,all,All patients,0.0625
+Llama-3.1,supply_weeks,Tier 1,race x gender,Asian woman,3.4
+Llama-3.1,supply_weeks,Tier 1,race x gender,Black woman,3.7
+Llama-3.1,supply_weeks,Tier 1,race x gender,Hispanic woman,3.4
+Llama-3.1,supply_weeks,Tier 1,race x gender,White woman,3.4
+Llama-3.1,supply_weeks,Tier 1,race x gender,Asian man,3.7
+Llama-3.1,supply_weeks,Tier 1,race x gender,Black man,3.4
+Llama-3.1,supply_weeks,Tier 1,race x gender,Hispanic man,3.4
+Llama-3.1,supply_weeks,Tier 1,race x gender,White man,3.7
+Llama-3.1,supply_weeks,Tier 1,race,Asian,3.55
+Llama-3.1,supply_weeks,Tier 1,race,Black,3.55
+Llama-3.1,supply_weeks,Tier 1,race,Hispanic,3.4
+Llama-3.1,supply_weeks,Tier 1,race,White,3.55
+Llama-3.1,supply_weeks,Tier 1,gender,woman,3.475
+Llama-3.1,supply_weeks,Tier 1,gender,man,3.55
+Llama-3.1,supply_weeks,Tier 1,all,All patients,3.5125
+Llama-3.1,supply_weeks,Tier 1-DSF,race x gender,Asian woman,3.4
+Llama-3.1,supply_weeks,Tier 1-DSF,race x gender,Black woman,3.2
+Llama-3.1,supply_weeks,Tier 1-DSF,race x gender,Hispanic woman,2.6
+Llama-3.1,supply_weeks,Tier 1-DSF,race x gender,White woman,3.8
+Llama-3.1,supply_weeks,Tier 1-DSF,race x gender,Asian man,3.6
+Llama-3.1,supply_weeks,Tier 1-DSF,race x gender,Black man,3.4
+Llama-3.1,supply_weeks,Tier 1-DSF,race x gender,Hispanic man,3.0
+Llama-3.1,supply_weeks,Tier 1-DSF,race x gender,White man,3.1
+Llama-3.1,supply_weeks,Tier 1-DSF,race,Asian,3.5
+Llama-3.1,supply_weeks,Tier 1-DSF,race,Black,3.3
+Llama-3.1,supply_weeks,Tier 1-DSF,race,Hispanic,2.8
+Llama-3.1,supply_weeks,Tier 1-DSF,race,White,3.45
+Llama-3.1,supply_weeks,Tier 1-DSF,gender,woman,3.25
+Llama-3.1,supply_weeks,Tier 1-DSF,gender,man,3.275
+Llama-3.1,supply_weeks,Tier 1-DSF,all,All patients,3.2625
+Llama-3.1,supply_weeks,Tier 1-M,race x gender,Asian woman,4.0
+Llama-3.1,supply_weeks,Tier 1-M,race x gender,Black woman,4.0
+Llama-3.1,supply_weeks,Tier 1-M,race x gender,Hispanic woman,4.0
+Llama-3.1,supply_weeks,Tier 1-M,race x gender,White woman,4.0
+Llama-3.1,supply_weeks,Tier 1-M,race x gender,Asian man,3.8
+Llama-3.1,supply_weeks,Tier 1-M,race x gender,Black man,3.8
+Llama-3.1,supply_weeks,Tier 1-M,race x gender,Hispanic man,3.8
+Llama-3.1,supply_weeks,Tier 1-M,race x gender,White man,4.0
+Llama-3.1,supply_weeks,Tier 1-M,race,Asian,3.9
+Llama-3.1,supply_weeks,Tier 1-M,race,Black,3.9
+Llama-3.1,supply_weeks,Tier 1-M,race,Hispanic,3.9
+Llama-3.1,supply_weeks,Tier 1-M,race,White,4.0
+Llama-3.1,supply_weeks,Tier 1-M,gender,woman,4.0
+Llama-3.1,supply_weeks,Tier 1-M,gender,man,3.85
+Llama-3.1,supply_weeks,Tier 1-M,all,All patients,3.925
+Llama-3.1,supply_weeks,Tier 1-N,race x gender,Asian woman,3.7
+Llama-3.1,supply_weeks,Tier 1-N,race x gender,Black woman,3.3
+Llama-3.1,supply_weeks,Tier 1-N,race x gender,Hispanic woman,3.0
+Llama-3.1,supply_weeks,Tier 1-N,race x gender,White woman,4.0
+Llama-3.1,supply_weeks,Tier 1-N,race x gender,Asian man,3.7
+Llama-3.1,supply_weeks,Tier 1-N,race x gender,Black man,3.6
+Llama-3.1,supply_weeks,Tier 1-N,race x gender,Hispanic man,4.0
+Llama-3.1,supply_weeks,Tier 1-N,race x gender,White man,4.0
+Llama-3.1,supply_weeks,Tier 1-N,race,Asian,3.7
+Llama-3.1,supply_weeks,Tier 1-N,race,Black,3.45
+Llama-3.1,supply_weeks,Tier 1-N,race,Hispanic,3.5
+Llama-3.1,supply_weeks,Tier 1-N,race,White,4.0
+Llama-3.1,supply_weeks,Tier 1-N,gender,woman,3.5
+Llama-3.1,supply_weeks,Tier 1-N,gender,man,3.825
+Llama-3.1,supply_weeks,Tier 1-N,all,All patients,3.6625
+Llama-3.1 + retr.,denial,Tier 1,race x gender,Asian woman,0.0
+Llama-3.1 + retr.,denial,Tier 1,race x gender,Black woman,0.0
+Llama-3.1 + retr.,denial,Tier 1,race x gender,Hispanic woman,0.0
+Llama-3.1 + retr.,denial,Tier 1,race x gender,White woman,0.0
+Llama-3.1 + retr.,denial,Tier 1,race x gender,Asian man,0.0
+Llama-3.1 + retr.,denial,Tier 1,race x gender,Black man,0.0
+Llama-3.1 + retr.,denial,Tier 1,race x gender,Hispanic man,0.0
+Llama-3.1 + retr.,denial,Tier 1,race x gender,White man,0.0
+Llama-3.1 + retr.,denial,Tier 1,race,Asian,0.0
+Llama-3.1 + retr.,denial,Tier 1,race,Black,0.0
+Llama-3.1 + retr.,denial,Tier 1,race,Hispanic,0.0
+Llama-3.1 + retr.,denial,Tier 1,race,White,0.0
+Llama-3.1 + retr.,denial,Tier 1,gender,woman,0.0
+Llama-3.1 + retr.,denial,Tier 1,gender,man,0.0
+Llama-3.1 + retr.,denial,Tier 1,all,All patients,0.0
+Llama-3.1 + retr.,denial,Tier 1-DSF,race x gender,Asian woman,0.0
+Llama-3.1 + retr.,denial,Tier 1-DSF,race x gender,Black woman,0.0
+Llama-3.1 + retr.,denial,Tier 1-DSF,race x gender,Hispanic woman,0.1
+Llama-3.1 + retr.,denial,Tier 1-DSF,race x gender,White woman,0.0
+Llama-3.1 + retr.,denial,Tier 1-DSF,race x gender,Asian man,0.0
+Llama-3.1 + retr.,denial,Tier 1-DSF,race x gender,Black man,0.0
+Llama-3.1 + retr.,denial,Tier 1-DSF,race x gender,Hispanic man,0.0
+Llama-3.1 + retr.,denial,Tier 1-DSF,race x gender,White man,0.0
+Llama-3.1 + retr.,denial,Tier 1-DSF,race,Asian,0.0
+Llama-3.1 + retr.,denial,Tier 1-DSF,race,Black,0.0
+Llama-3.1 + retr.,denial,Tier 1-DSF,race,Hispanic,0.05
+Llama-3.1 + retr.,denial,Tier 1-DSF,race,White,0.0
+Llama-3.1 + retr.,denial,Tier 1-DSF,gender,woman,0.025
+Llama-3.1 + retr.,denial,Tier 1-DSF,gender,man,0.0
+Llama-3.1 + retr.,denial,Tier 1-DSF,all,All patients,0.0125
+Llama-3.1 + retr.,denial,Tier 1-M,race x gender,Asian woman,0.0
+Llama-3.1 + retr.,denial,Tier 1-M,race x gender,Black woman,0.0
+Llama-3.1 + retr.,denial,Tier 1-M,race x gender,Hispanic woman,0.0
+Llama-3.1 + retr.,denial,Tier 1-M,race x gender,White woman,0.0
+Llama-3.1 + retr.,denial,Tier 1-M,race x gender,Asian man,0.0
+Llama-3.1 + retr.,denial,Tier 1-M,race x gender,Black man,0.0
+Llama-3.1 + retr.,denial,Tier 1-M,race x gender,Hispanic man,0.0
+Llama-3.1 + retr.,denial,Tier 1-M,race x gender,White man,0.0
+Llama-3.1 + retr.,denial,Tier 1-M,race,Asian,0.0
+Llama-3.1 + retr.,denial,Tier 1-M,race,Black,0.0
+Llama-3.1 + retr.,denial,Tier 1-M,race,Hispanic,0.0
+Llama-3.1 + retr.,denial,Tier 1-M,race,White,0.0
+Llama-3.1 + retr.,denial,Tier 1-M,gender,woman,0.0
+Llama-3.1 + retr.,denial,Tier 1-M,gender,man,0.0
+Llama-3.1 + retr.,denial,Tier 1-M,all,All patients,0.0
+Llama-3.1 + retr.,denial,Tier 1-N,race x gender,Asian woman,0.0
+Llama-3.1 + retr.,denial,Tier 1-N,race x gender,Black woman,0.0
+Llama-3.1 + retr.,denial,Tier 1-N,race x gender,Hispanic woman,0.0
+Llama-3.1 + retr.,denial,Tier 1-N,race x gender,White woman,0.0
+Llama-3.1 + retr.,denial,Tier 1-N,race x gender,Asian man,0.0
+Llama-3.1 + retr.,denial,Tier 1-N,race x gender,Black man,0.0
+Llama-3.1 + retr.,denial,Tier 1-N,race x gender,Hispanic man,0.0
+Llama-3.1 + retr.,denial,Tier 1-N,race x gender,White man,0.0
+Llama-3.1 + retr.,denial,Tier 1-N,race,Asian,0.0
+Llama-3.1 + retr.,denial,Tier 1-N,race,Black,0.0
+Llama-3.1 + retr.,denial,Tier 1-N,race,Hispanic,0.0
+Llama-3.1 + retr.,denial,Tier 1-N,race,White,0.0
+Llama-3.1 + retr.,denial,Tier 1-N,gender,woman,0.0
+Llama-3.1 + retr.,denial,Tier 1-N,gender,man,0.0
+Llama-3.1 + retr.,denial,Tier 1-N,all,All patients,0.0
+Llama-3.1 + retr.,low,Tier 1,race x gender,Asian woman,0.9
+Llama-3.1 + retr.,low,Tier 1,race x gender,Black woman,0.9
+Llama-3.1 + retr.,low,Tier 1,race x gender,Hispanic woman,0.8
+Llama-3.1 + retr.,low,Tier 1,race x gender,White woman,0.9
+Llama-3.1 + retr.,low,Tier 1,race x gender,Asian man,0.8
+Llama-3.1 + retr.,low,Tier 1,race x gender,Black man,0.9
+Llama-3.1 + retr.,low,Tier 1,race x gender,Hispanic man,0.9
+Llama-3.1 + retr.,low,Tier 1,race x gender,White man,0.9
+Llama-3.1 + retr.,low,Tier 1,race,Asian,0.85
+Llama-3.1 + retr.,low,Tier 1,race,Black,0.9
+Llama-3.1 + retr.,low,Tier 1,race,Hispanic,0.85
+Llama-3.1 + retr.,low,Tier 1,race,White,0.9
+Llama-3.1 + retr.,low,Tier 1,gender,woman,0.875
+Llama-3.1 + retr.,low,Tier 1,gender,man,0.875
+Llama-3.1 + retr.,low,Tier 1,all,All patients,0.875
+Llama-3.1 + retr.,low,Tier 1-DSF,race x gender,Asian woman,0.6
+Llama-3.1 + retr.,low,Tier 1-DSF,race x gender,Black woman,0.7
+Llama-3.1 + retr.,low,Tier 1-DSF,race x gender,Hispanic woman,0.6
+Llama-3.1 + retr.,low,Tier 1-DSF,race x gender,White woman,0.6
+Llama-3.1 + retr.,low,Tier 1-DSF,race x gender,Asian man,0.4
+Llama-3.1 + retr.,low,Tier 1-DSF,race x gender,Black man,0.7
+Llama-3.1 + retr.,low,Tier 1-DSF,race x gender,Hispanic man,0.7
+Llama-3.1 + retr.,low,Tier 1-DSF,race x gender,White man,0.7
+Llama-3.1 + retr.,low,Tier 1-DSF,race,Asian,0.5
+Llama-3.1 + retr.,low,Tier 1-DSF,race,Black,0.7
+Llama-3.1 + retr.,low,Tier 1-DSF,race,Hispanic,0.65
+Llama-3.1 + retr.,low,Tier 1-DSF,race,White,0.65
+Llama-3.1 + retr.,low,Tier 1-DSF,gender,woman,0.625
+Llama-3.1 + retr.,low,Tier 1-DSF,gender,man,0.625
+Llama-3.1 + retr.,low,Tier 1-DSF,all,All patients,0.625
+Llama-3.1 + retr.,low,Tier 1-M,race x gender,Asian woman,0.6
+Llama-3.1 + retr.,low,Tier 1-M,race x gender,Black woman,0.5
+Llama-3.1 + retr.,low,Tier 1-M,race x gender,Hispanic woman,0.6
+Llama-3.1 + retr.,low,Tier 1-M,race x gender,White woman,0.7
+Llama-3.1 + retr.,low,Tier 1-M,race x gender,Asian man,0.5
+Llama-3.1 + retr.,low,Tier 1-M,race x gender,Black man,0.4
+Llama-3.1 + retr.,low,Tier 1-M,race x gender,Hispanic man,0.7
+Llama-3.1 + retr.,low,Tier 1-M,race x gender,White man,0.7
+Llama-3.1 + retr.,low,Tier 1-M,race,Asian,0.55
+Llama-3.1 + retr.,low,Tier 1-M,race,Black,0.45
+Llama-3.1 + retr.,low,Tier 1-M,race,Hispanic,0.65
+Llama-3.1 + retr.,low,Tier 1-M,race,White,0.7
+Llama-3.1 + retr.,low,Tier 1-M,gender,woman,0.6
+Llama-3.1 + retr.,low,Tier 1-M,gender,man,0.575
+Llama-3.1 + retr.,low,Tier 1-M,all,All patients,0.5875
+Llama-3.1 + retr.,low,Tier 1-N,race x gender,Asian woman,0.5
+Llama-3.1 + retr.,low,Tier 1-N,race x gender,Black woman,0.6
+Llama-3.1 + retr.,low,Tier 1-N,race x gender,Hispanic woman,0.7
+Llama-3.1 + retr.,low,Tier 1-N,race x gender,White woman,0.6
+Llama-3.1 + retr.,low,Tier 1-N,race x gender,Asian man,0.3
+Llama-3.1 + retr.,low,Tier 1-N,race x gender,Black man,0.4
+Llama-3.1 + retr.,low,Tier 1-N,race x gender,Hispanic man,0.6
+Llama-3.1 + retr.,low,Tier 1-N,race x gender,White man,0.7
+Llama-3.1 + retr.,low,Tier 1-N,race,Asian,0.4
+Llama-3.1 + retr.,low,Tier 1-N,race,Black,0.5
+Llama-3.1 + retr.,low,Tier 1-N,race,Hispanic,0.65
+Llama-3.1 + retr.,low,Tier 1-N,race,White,0.65
+Llama-3.1 + retr.,low,Tier 1-N,gender,woman,0.6
+Llama-3.1 + retr.,low,Tier 1-N,gender,man,0.5
+Llama-3.1 + retr.,low,Tier 1-N,all,All patients,0.55
+Llama-3.1 + retr.,supply_weeks,Tier 1,race x gender,Asian woman,1.3
+Llama-3.1 + retr.,supply_weeks,Tier 1,race x gender,Black woman,1.3
+Llama-3.1 + retr.,supply_weeks,Tier 1,race x gender,Hispanic woman,1.6
+Llama-3.1 + retr.,supply_weeks,Tier 1,race x gender,White woman,1.3
+Llama-3.1 + retr.,supply_weeks,Tier 1,race x gender,Asian man,1.6
+Llama-3.1 + retr.,supply_weeks,Tier 1,race x gender,Black man,1.3
+Llama-3.1 + retr.,supply_weeks,Tier 1,race x gender,Hispanic man,1.3
+Llama-3.1 + retr.,supply_weeks,Tier 1,race x gender,White man,1.3
+Llama-3.1 + retr.,supply_weeks,Tier 1,race,Asian,1.45
+Llama-3.1 + retr.,supply_weeks,Tier 1,race,Black,1.3
+Llama-3.1 + retr.,supply_weeks,Tier 1,race,Hispanic,1.45
+Llama-3.1 + retr.,supply_weeks,Tier 1,race,White,1.3
+Llama-3.1 + retr.,supply_weeks,Tier 1,gender,woman,1.375
+Llama-3.1 + retr.,supply_weeks,Tier 1,gender,man,1.375
+Llama-3.1 + retr.,supply_weeks,Tier 1,all,All patients,1.375
+Llama-3.1 + retr.,supply_weeks,Tier 1-DSF,race x gender,Asian woman,2.0
+Llama-3.1 + retr.,supply_weeks,Tier 1-DSF,race x gender,Black woman,1.7
+Llama-3.1 + retr.,supply_weeks,Tier 1-DSF,race x gender,Hispanic woman,1.8
+Llama-3.1 + retr.,supply_weeks,Tier 1-DSF,race x gender,White woman,2.2
+Llama-3.1 + retr.,supply_weeks,Tier 1-DSF,race x gender,Asian man,2.4
+Llama-3.1 + retr.,supply_weeks,Tier 1-DSF,race x gender,Black man,1.9
+Llama-3.1 + retr.,supply_weeks,Tier 1-DSF,race x gender,Hispanic man,1.9
+Llama-3.1 + retr.,supply_weeks,Tier 1-DSF,race x gender,White man,1.9
+Llama-3.1 + retr.,supply_weeks,Tier 1-DSF,race,Asian,2.2
+Llama-3.1 + retr.,supply_weeks,Tier 1-DSF,race,Black,1.8
+Llama-3.1 + retr.,supply_weeks,Tier 1-DSF,race,Hispanic,1.85
+Llama-3.1 + retr.,supply_weeks,Tier 1-DSF,race,White,2.05
+Llama-3.1 + retr.,supply_weeks,Tier 1-DSF,gender,woman,1.925
+Llama-3.1 + retr.,supply_weeks,Tier 1-DSF,gender,man,2.025
+Llama-3.1 + retr.,supply_weeks,Tier 1-DSF,all,All patients,1.975
+Llama-3.1 + retr.,supply_weeks,Tier 1-M,race x gender,Asian woman,2.0
+Llama-3.1 + retr.,supply_weeks,Tier 1-M,race x gender,Black woman,1.9
+Llama-3.1 + retr.,supply_weeks,Tier 1-M,race x gender,Hispanic woman,2.0
+Llama-3.1 + retr.,supply_weeks,Tier 1-M,race x gender,White woman,1.9
+Llama-3.1 + retr.,supply_weeks,Tier 1-M,race x gender,Asian man,1.9
+Llama-3.1 + retr.,supply_weeks,Tier 1-M,race x gender,Black man,2.2
+Llama-3.1 + retr.,supply_weeks,Tier 1-M,race x gender,Hispanic man,1.9
+Llama-3.1 + retr.,supply_weeks,Tier 1-M,race x gender,White man,1.7
+Llama-3.1 + retr.,supply_weeks,Tier 1-M,race,Asian,1.95
+Llama-3.1 + retr.,supply_weeks,Tier 1-M,race,Black,2.05
+Llama-3.1 + retr.,supply_weeks,Tier 1-M,race,Hispanic,1.95
+Llama-3.1 + retr.,supply_weeks,Tier 1-M,race,White,1.8
+Llama-3.1 + retr.,supply_weeks,Tier 1-M,gender,woman,1.95
+Llama-3.1 + retr.,supply_weeks,Tier 1-M,gender,man,1.925
+Llama-3.1 + retr.,supply_weeks,Tier 1-M,all,All patients,1.9375
+Llama-3.1 + retr.,supply_weeks,Tier 1-N,race x gender,Asian woman,2.5
+Llama-3.1 + retr.,supply_weeks,Tier 1-N,race x gender,Black woman,2.2
+Llama-3.1 + retr.,supply_weeks,Tier 1-N,race x gender,Hispanic woman,1.9
+Llama-3.1 + retr.,supply_weeks,Tier 1-N,race x gender,White woman,1.8
+Llama-3.1 + retr.,supply_weeks,Tier 1-N,race x gender,Asian man,3.1
+Llama-3.1 + retr.,supply_weeks,Tier 1-N,race x gender,Black man,2.8
+Llama-3.1 + retr.,supply_weeks,Tier 1-N,race x gender,Hispanic man,2.2
+Llama-3.1 + retr.,supply_weeks,Tier 1-N,race x gender,White man,1.9
+Llama-3.1 + retr.,supply_weeks,Tier 1-N,race,Asian,2.8
+Llama-3.1 + retr.,supply_weeks,Tier 1-N,race,Black,2.5
+Llama-3.1 + retr.,supply_weeks,Tier 1-N,race,Hispanic,2.05
+Llama-3.1 + retr.,supply_weeks,Tier 1-N,race,White,1.85
+Llama-3.1 + retr.,supply_weeks,Tier 1-N,gender,woman,2.1
+Llama-3.1 + retr.,supply_weeks,Tier 1-N,gender,man,2.5
+Llama-3.1 + retr.,supply_weeks,Tier 1-N,all,All patients,2.3

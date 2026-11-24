@@ -1,0 +1,217 @@
+system,outcome,test,condition,family,stat,p_perm
+GPT-4o-mini,denial,bias,Tier 2,race x gender,0.0,1.0
+GPT-4o-mini,denial,bias,Tier 2,race,0.0,1.0
+GPT-4o-mini,denial,bias,Tier 2,gender,0.0,1.0
+GPT-4o-mini,denial,bias,Tier 2-DSF,race x gender,0.0,1.0
+GPT-4o-mini,denial,bias,Tier 2-DSF,race,0.0,1.0
+GPT-4o-mini,denial,bias,Tier 2-DSF,gender,0.0,1.0
+GPT-4o-mini,denial,interaction,Tier 2-DSF,race x gender,0.0,1.0
+GPT-4o-mini,denial,interaction,Tier 2-DSF,race,0.0,1.0
+GPT-4o-mini,denial,interaction,Tier 2-DSF,gender,0.0,1.0
+GPT-4o-mini,low,bias,Tier 2,race x gender,0.00014843749999999997,0.1316868313168683
+GPT-4o-mini,low,bias,Tier 2,race,6.406250000000002e-05,0.20417958204179582
+GPT-4o-mini,low,bias,Tier 2,gender,1.5625000000000028e-06,0.8676132386761324
+GPT-4o-mini,low,bias,Tier 2-DSF,race x gender,1.2109375000000001e-05,0.6842315768423157
+GPT-4o-mini,low,bias,Tier 2-DSF,race,7.421875e-06,0.31366863313668636
+GPT-4o-mini,low,bias,Tier 2-DSF,gender,3.9062499999999986e-07,1.0
+GPT-4o-mini,low,interaction,Tier 2-DSF,race x gender,0.00010898437499999995,0.40445955404459555
+GPT-4o-mini,low,interaction,Tier 2-DSF,race,4.1796875e-05,0.42405759424057593
+GPT-4o-mini,low,interaction,Tier 2-DSF,gender,3.5156249999999804e-06,0.7409259074092591
+GPT-4o-mini,supply_weeks,bias,Tier 2,race x gender,0.001335937500000007,0.1316868313168683
+GPT-4o-mini,supply_weeks,bias,Tier 2,race,0.0005765625000000029,0.20417958204179582
+GPT-4o-mini,supply_weeks,bias,Tier 2,gender,1.4062500000001065e-05,0.8676132386761324
+GPT-4o-mini,supply_weeks,bias,Tier 2-DSF,race x gender,1.2109374999999866e-05,0.6842315768423157
+GPT-4o-mini,supply_weeks,bias,Tier 2-DSF,race,7.421875000000169e-06,0.31366863313668636
+GPT-4o-mini,supply_weeks,bias,Tier 2-DSF,gender,3.9062499999998334e-07,1.0
+GPT-4o-mini,supply_weeks,interaction,Tier 2-DSF,race x gender,0.0011933593750000021,0.1847815218478152
+GPT-4o-mini,supply_weeks,interaction,Tier 2-DSF,race,0.0004949218750000009,0.24247575242475752
+GPT-4o-mini,supply_weeks,interaction,Tier 2-DSF,gender,1.9140624999999186e-05,0.7359264073592641
+GPT-4o-mini + retr.,denial,bias,Tier 2,race x gender,0.0,1.0
+GPT-4o-mini + retr.,denial,bias,Tier 2,race,0.0,1.0
+GPT-4o-mini + retr.,denial,bias,Tier 2,gender,0.0,1.0
+GPT-4o-mini + retr.,denial,bias,Tier 2-DSF,race x gender,0.0,1.0
+GPT-4o-mini + retr.,denial,bias,Tier 2-DSF,race,0.0,1.0
+GPT-4o-mini + retr.,denial,bias,Tier 2-DSF,gender,0.0,1.0
+GPT-4o-mini + retr.,denial,interaction,Tier 2-DSF,race x gender,0.0,1.0
+GPT-4o-mini + retr.,denial,interaction,Tier 2-DSF,race,0.0,1.0
+GPT-4o-mini + retr.,denial,interaction,Tier 2-DSF,gender,0.0,1.0
+GPT-4o-mini + retr.,low,bias,Tier 2,race x gender,0.0007812500000000013,0.0006999300069993001
+GPT-4o-mini + retr.,low,bias,Tier 2,race,0.00018750000000000033,0.11798820117988201
+GPT-4o-mini + retr.,low,bias,Tier 2,gender,1.4062500000000233e-05,0.5836416358364164
+GPT-4o-mini + retr.,low,bias,Tier 2-DSF,race x gender,0.0004312499999999999,0.13388661133886612
+GPT-4o-mini + retr.,low,bias,Tier 2-DSF,race,9.999999999999961e-05,0.4664533546645335
+GPT-4o-mini + retr.,low,bias,Tier 2-DSF,gender,0.00012656250000000024,0.08599140085991401
+GPT-4o-mini + retr.,low,interaction,Tier 2-DSF,race x gender,0.0010812500000000002,0.029697030296970302
+GPT-4o-mini + retr.,low,interaction,Tier 2-DSF,race,0.00018749999999999998,0.43815618438156184
+GPT-4o-mini + retr.,low,interaction,Tier 2-DSF,gender,5.624999999999989e-05,0.40415958404159585
+GPT-4o-mini + retr.,supply_weeks,bias,Tier 2,race x gender,0.007031250000000001,0.0006999300069993001
+GPT-4o-mini + retr.,supply_weeks,bias,Tier 2,race,0.0016875000000000015,0.11798820117988201
+GPT-4o-mini + retr.,supply_weeks,bias,Tier 2,gender,0.00012656249999999961,0.5836416358364164
+GPT-4o-mini + retr.,supply_weeks,bias,Tier 2-DSF,race x gender,0.0006437499999999994,0.15348465153484653
+GPT-4o-mini + retr.,supply_weeks,bias,Tier 2-DSF,race,0.00011249999999999909,0.6103389661033897
+GPT-4o-mini + retr.,supply_weeks,bias,Tier 2-DSF,gender,0.00026406249999999954,0.041695830416958304
+GPT-4o-mini + retr.,supply_weeks,interaction,Tier 2-DSF,race x gender,0.00694375,0.0038996100389961006
+GPT-4o-mini + retr.,supply_weeks,interaction,Tier 2-DSF,race,0.0013500000000000025,0.26747325267473254
+GPT-4o-mini + retr.,supply_weeks,interaction,Tier 2-DSF,gender,2.5000000000000045e-05,0.8168183181681832
+GPT-4.1-mini,denial,bias,Tier 2,race x gender,0.0,1.0
+GPT-4.1-mini,denial,bias,Tier 2,race,0.0,1.0
+GPT-4.1-mini,denial,bias,Tier 2,gender,0.0,1.0
+GPT-4.1-mini,denial,bias,Tier 2-DSF,race x gender,0.0,1.0
+GPT-4.1-mini,denial,bias,Tier 2-DSF,race,0.0,1.0
+GPT-4.1-mini,denial,bias,Tier 2-DSF,gender,0.0,1.0
+GPT-4.1-mini,denial,interaction,Tier 2-DSF,race x gender,0.0,1.0
+GPT-4.1-mini,denial,interaction,Tier 2-DSF,race,0.0,1.0
+GPT-4.1-mini,denial,interaction,Tier 2-DSF,gender,0.0,1.0
+GPT-4.1-mini,low,bias,Tier 2,race x gender,0.00014999999999999904,0.2803719628037196
+GPT-4.1-mini,low,bias,Tier 2,race,2.18749999999999e-05,0.7783221677832217
+GPT-4.1-mini,low,bias,Tier 2,gender,3.9062500000000414e-05,0.16648335166483352
+GPT-4.1-mini,low,bias,Tier 2-DSF,race x gender,0.001067187500000002,0.0005999400059994001
+GPT-4.1-mini,low,bias,Tier 2-DSF,race,0.0010140625000000002,9.999000099990002e-05
+GPT-4.1-mini,low,bias,Tier 2-DSF,gender,1.5625000000000723e-06,0.923007699230077
+GPT-4.1-mini,low,interaction,Tier 2-DSF,race x gender,0.0013734374999999997,0.0017998200179982
+GPT-4.1-mini,low,interaction,Tier 2-DSF,race,0.0013265624999999996,0.00019998000199980003
+GPT-4.1-mini,low,interaction,Tier 2-DSF,gender,2.4999999999999767e-05,0.5611438856114389
+GPT-4.1-mini,supply_weeks,bias,Tier 2,race x gender,0.0013500000000000016,0.2803719628037196
+GPT-4.1-mini,supply_weeks,bias,Tier 2,race,0.0001968750000000008,0.7783221677832217
+GPT-4.1-mini,supply_weeks,bias,Tier 2,gender,0.00035156250000000167,0.16648335166483352
+GPT-4.1-mini,supply_weeks,bias,Tier 2-DSF,race x gender,0.0009625,0.0081991800819918
+GPT-4.1-mini,supply_weeks,bias,Tier 2-DSF,race,0.0008843750000000009,0.0008999100089991
+GPT-4.1-mini,supply_weeks,bias,Tier 2-DSF,gender,6.2499999999997335e-06,0.798020197980202
+GPT-4.1-mini,supply_weeks,interaction,Tier 2-DSF,race x gender,0.0027812499999999994,0.044795520447955206
+GPT-4.1-mini,supply_weeks,interaction,Tier 2-DSF,race,0.0018593750000000008,0.0230976902309769
+GPT-4.1-mini,supply_weeks,interaction,Tier 2-DSF,gender,0.0004515625000000002,0.1366863313668633
+GPT-4.1-mini + retr.,denial,bias,Tier 2,race x gender,0.0,1.0
+GPT-4.1-mini + retr.,denial,bias,Tier 2,race,0.0,1.0
+GPT-4.1-mini + retr.,denial,bias,Tier 2,gender,0.0,1.0
+GPT-4.1-mini + retr.,denial,bias,Tier 2-DSF,race x gender,0.0,1.0
+GPT-4.1-mini + retr.,denial,bias,Tier 2-DSF,race,0.0,1.0
+GPT-4.1-mini + retr.,denial,bias,Tier 2-DSF,gender,0.0,1.0
+GPT-4.1-mini + retr.,denial,interaction,Tier 2-DSF,race x gender,0.0,1.0
+GPT-4.1-mini + retr.,denial,interaction,Tier 2-DSF,race,0.0,1.0
+GPT-4.1-mini + retr.,denial,interaction,Tier 2-DSF,gender,0.0,1.0
+GPT-4.1-mini + retr.,low,bias,Tier 2,race x gender,0.0,1.0
+GPT-4.1-mini + retr.,low,bias,Tier 2,race,0.0,1.0
+GPT-4.1-mini + retr.,low,bias,Tier 2,gender,0.0,1.0
+GPT-4.1-mini + retr.,low,bias,Tier 2-DSF,race x gender,0.0001625000000000003,0.021497850214978503
+GPT-4.1-mini + retr.,low,bias,Tier 2-DSF,race,6.562499999999985e-05,0.08839116088391161
+GPT-4.1-mini + retr.,low,bias,Tier 2-DSF,gender,1.5624999999999334e-06,0.8427157284271573
+GPT-4.1-mini + retr.,low,interaction,Tier 2-DSF,race x gender,0.00016250000000000002,0.021497850214978503
+GPT-4.1-mini + retr.,low,interaction,Tier 2-DSF,race,6.562500000000002e-05,0.08839116088391161
+GPT-4.1-mini + retr.,low,interaction,Tier 2-DSF,gender,1.5625000000000028e-06,0.8427157284271573
+GPT-4.1-mini + retr.,supply_weeks,bias,Tier 2,race x gender,0.0,1.0
+GPT-4.1-mini + retr.,supply_weeks,bias,Tier 2,race,0.0,1.0
+GPT-4.1-mini + retr.,supply_weeks,bias,Tier 2,gender,0.0,1.0
+GPT-4.1-mini + retr.,supply_weeks,bias,Tier 2-DSF,race x gender,0.0001625000000000007,0.021497850214978503
+GPT-4.1-mini + retr.,supply_weeks,bias,Tier 2-DSF,race,6.56249999999997e-05,0.08839116088391161
+GPT-4.1-mini + retr.,supply_weeks,bias,Tier 2-DSF,gender,1.5624999999999334e-06,0.8427157284271573
+GPT-4.1-mini + retr.,supply_weeks,interaction,Tier 2-DSF,race x gender,0.00016250000000000002,0.021497850214978503
+GPT-4.1-mini + retr.,supply_weeks,interaction,Tier 2-DSF,race,6.562500000000002e-05,0.08839116088391161
+GPT-4.1-mini + retr.,supply_weeks,interaction,Tier 2-DSF,gender,1.5625000000000028e-06,0.8427157284271573
+GPT-5.4,denial,bias,Tier 2,race x gender,0.0,1.0
+GPT-5.4,denial,bias,Tier 2,race,0.0,1.0
+GPT-5.4,denial,bias,Tier 2,gender,0.0,1.0
+GPT-5.4,denial,bias,Tier 2-DSF,race x gender,0.0,1.0
+GPT-5.4,denial,bias,Tier 2-DSF,race,0.0,1.0
+GPT-5.4,denial,bias,Tier 2-DSF,gender,0.0,1.0
+GPT-5.4,denial,interaction,Tier 2-DSF,race x gender,0.0,1.0
+GPT-5.4,denial,interaction,Tier 2-DSF,race,0.0,1.0
+GPT-5.4,denial,interaction,Tier 2-DSF,gender,0.0,1.0
+GPT-5.4,low,bias,Tier 2,race x gender,0.00016250000000000032,0.036996300369963
+GPT-5.4,low,bias,Tier 2,race,0.00010312500000000046,0.025597440255974404
+GPT-5.4,low,bias,Tier 2,gender,1.4062500000000233e-05,0.33826617338266174
+GPT-5.4,low,bias,Tier 2-DSF,race x gender,0.0006109374999999996,0.0027997200279972004
+GPT-5.4,low,bias,Tier 2-DSF,race,7.968750000000015e-05,0.44785521447855214
+GPT-5.4,low,bias,Tier 2-DSF,gender,0.0004000000000000002,0.00039996000399960006
+GPT-5.4,low,interaction,Tier 2-DSF,race x gender,0.0005359374999999989,0.06429357064293571
+GPT-5.4,low,interaction,Tier 2-DSF,race,0.00020781249999999975,0.16348365163483652
+GPT-5.4,low,interaction,Tier 2-DSF,gender,0.00026406249999999954,0.014698530146985302
+GPT-5.4,supply_weeks,bias,Tier 2,race x gender,0.0014624999999999987,0.036996300369963
+GPT-5.4,supply_weeks,bias,Tier 2,race,0.0009281250000000005,0.025597440255974404
+GPT-5.4,supply_weeks,bias,Tier 2,gender,0.00012656249999999961,0.33826617338266174
+GPT-5.4,supply_weeks,bias,Tier 2-DSF,race x gender,0.0029609374999999983,0.0012998700129987
+GPT-5.4,supply_weeks,bias,Tier 2-DSF,race,0.0009921874999999994,0.049795020497950204
+GPT-5.4,supply_weeks,bias,Tier 2-DSF,gender,0.0014062500000000067,0.0015998400159984002
+GPT-5.4,supply_weeks,interaction,Tier 2-DSF,race x gender,0.0030734375000000015,0.05679432056794321
+GPT-5.4,supply_weeks,interaction,Tier 2-DSF,race,0.0015265625000000006,0.0811918808119188
+GPT-5.4,supply_weeks,interaction,Tier 2-DSF,gender,0.0006890624999999998,0.08819118088191182
+GPT-5.4 + retr.,denial,bias,Tier 2,race x gender,0.0,1.0
+GPT-5.4 + retr.,denial,bias,Tier 2,race,0.0,1.0
+GPT-5.4 + retr.,denial,bias,Tier 2,gender,0.0,1.0
+GPT-5.4 + retr.,denial,bias,Tier 2-DSF,race x gender,0.0,1.0
+GPT-5.4 + retr.,denial,bias,Tier 2-DSF,race,0.0,1.0
+GPT-5.4 + retr.,denial,bias,Tier 2-DSF,gender,0.0,1.0
+GPT-5.4 + retr.,denial,interaction,Tier 2-DSF,race x gender,0.0,1.0
+GPT-5.4 + retr.,denial,interaction,Tier 2-DSF,race,0.0,1.0
+GPT-5.4 + retr.,denial,interaction,Tier 2-DSF,gender,0.0,1.0
+GPT-5.4 + retr.,low,bias,Tier 2,race x gender,0.0,1.0
+GPT-5.4 + retr.,low,bias,Tier 2,race,0.0,1.0
+GPT-5.4 + retr.,low,bias,Tier 2,gender,0.0,1.0
+GPT-5.4 + retr.,low,bias,Tier 2-DSF,race x gender,9.335937500000017e-05,0.026697330266973303
+GPT-5.4 + retr.,low,bias,Tier 2-DSF,race,7.421875000000101e-06,0.8006199380061993
+GPT-5.4 + retr.,low,bias,Tier 2-DSF,gender,3.5156250000000583e-06,0.6048395160483951
+GPT-5.4 + retr.,low,interaction,Tier 2-DSF,race x gender,9.335937500000002e-05,0.026697330266973303
+GPT-5.4 + retr.,low,interaction,Tier 2-DSF,race,7.421875e-06,0.8006199380061993
+GPT-5.4 + retr.,low,interaction,Tier 2-DSF,gender,3.515625e-06,0.6048395160483951
+GPT-5.4 + retr.,supply_weeks,bias,Tier 2,race x gender,0.0,1.0
+GPT-5.4 + retr.,supply_weeks,bias,Tier 2,race,0.0,1.0
+GPT-5.4 + retr.,supply_weeks,bias,Tier 2,gender,0.0,1.0
+GPT-5.4 + retr.,supply_weeks,bias,Tier 2-DSF,race x gender,9.33593749999996e-05,0.026697330266973303
+GPT-5.4 + retr.,supply_weeks,bias,Tier 2-DSF,race,7.421875000000169e-06,0.8006199380061993
+GPT-5.4 + retr.,supply_weeks,bias,Tier 2-DSF,gender,3.5156250000002663e-06,0.6048395160483951
+GPT-5.4 + retr.,supply_weeks,interaction,Tier 2-DSF,race x gender,9.335937500000002e-05,0.026697330266973303
+GPT-5.4 + retr.,supply_weeks,interaction,Tier 2-DSF,race,7.421875e-06,0.8006199380061993
+GPT-5.4 + retr.,supply_weeks,interaction,Tier 2-DSF,gender,3.515625e-06,0.6048395160483951
+Llama-3.1,denial,bias,Tier 2,race x gender,0.0012714843749999996,9.999000099990002e-05
+Llama-3.1,denial,bias,Tier 2,race,0.0003136718749999998,0.062193780621937804
+Llama-3.1,denial,bias,Tier 2,gender,0.0006566406249999997,9.999000099990002e-05
+Llama-3.1,denial,bias,Tier 2-DSF,race x gender,0.0014968590178935824,9.999000099990002e-05
+Llama-3.1,denial,bias,Tier 2-DSF,race,0.0001762110943378955,0.1045895410458954
+Llama-3.1,denial,bias,Tier 2-DSF,gender,0.00013097052821590298,0.028897110288971104
+Llama-3.1,denial,interaction,Tier 2-DSF,race x gender,0.002050024192365575,0.00019998000199980003
+Llama-3.1,denial,interaction,Tier 2-DSF,race,8.56657166959168e-05,0.7594240575942406
+Llama-3.1,denial,interaction,Tier 2-DSF,gender,0.00020758743074792243,0.0842915708429157
+Llama-3.1,low,bias,Tier 2,race x gender,0.0021359375,9.999000099990002e-05
+Llama-3.1,low,bias,Tier 2,race,0.00021406249999999973,0.20337966203379662
+Llama-3.1,low,bias,Tier 2,gender,0.0016000000000000007,9.999000099990002e-05
+Llama-3.1,low,bias,Tier 2-DSF,race x gender,0.0012777343750000002,0.0013998600139986002
+Llama-3.1,low,bias,Tier 2-DSF,race,0.0003636718749999998,0.08909109089091091
+Llama-3.1,low,bias,Tier 2-DSF,gender,3.5156250000000063e-06,0.8674132586741325
+Llama-3.1,low,interaction,Tier 2-DSF,race x gender,0.0037652343750000004,9.999000099990002e-05
+Llama-3.1,low,interaction,Tier 2-DSF,race,0.0005636718749999999,0.15278472152784722
+Llama-3.1,low,interaction,Tier 2-DSF,gender,0.0017535156250000003,9.999000099990002e-05
+Llama-3.1,supply_weeks,bias,Tier 2,race x gender,0.00429843750000001,0.5851414858514149
+Llama-3.1,supply_weeks,bias,Tier 2,race,0.0027640624999999888,0.3003699630036996
+Llama-3.1,supply_weeks,bias,Tier 2,gender,0.0003062499999999947,0.5462453754624538
+Llama-3.1,supply_weeks,bias,Tier 2-DSF,race x gender,0.02590898437499998,9.999000099990002e-05
+Llama-3.1,supply_weeks,bias,Tier 2-DSF,race,0.008332421875000004,0.011198880111988802
+Llama-3.1,supply_weeks,bias,Tier 2-DSF,gender,0.0036753906249999916,0.027597240275972403
+Llama-3.1,supply_weeks,interaction,Tier 2-DSF,race x gender,0.030024609375000007,0.0052994700529947
+Llama-3.1,supply_weeks,interaction,Tier 2-DSF,race,0.0023167968749999994,0.6772322767723228
+Llama-3.1,supply_weeks,interaction,Tier 2-DSF,gender,0.006103515624999999,0.047595240475952406
+Llama-3.1 + retr.,denial,bias,Tier 2,race x gender,0.00035624999999999996,0.0231976802319768
+Llama-3.1 + retr.,denial,bias,Tier 2,race,7.500000000000003e-05,0.35836416358364165
+Llama-3.1 + retr.,denial,bias,Tier 2,gender,7.656249999999994e-05,0.08159184081591841
+Llama-3.1 + retr.,denial,bias,Tier 2-DSF,race x gender,1.25e-05,0.3798620137986201
+Llama-3.1 + retr.,denial,bias,Tier 2-DSF,race,3.125e-06,0.8552144785521448
+Llama-3.1 + retr.,denial,bias,Tier 2-DSF,gender,1.5624999999999999e-06,0.5757424257574243
+Llama-3.1 + retr.,denial,interaction,Tier 2-DSF,race x gender,0.000375,0.0163983601639836
+Llama-3.1 + retr.,denial,interaction,Tier 2-DSF,race,7.812500000000004e-05,0.34526547345265474
+Llama-3.1 + retr.,denial,interaction,Tier 2-DSF,gender,9.999999999999996e-05,0.04129587041295871
+Llama-3.1 + retr.,low,bias,Tier 2,race x gender,0.000290234375,0.20887911208879112
+Llama-3.1 + retr.,low,bias,Tier 2,race,5.117187500000009e-05,0.6612338766123388
+Llama-3.1 + retr.,low,bias,Tier 2,gender,4.726562499999989e-05,0.24677532246775322
+Llama-3.1 + retr.,low,bias,Tier 2-DSF,race x gender,0.00013398437500000026,0.0201979802019798
+Llama-3.1 + retr.,low,bias,Tier 2-DSF,race,6.992187500000013e-05,0.039396060393960604
+Llama-3.1 + retr.,low,bias,Tier 2-DSF,gender,4.726562499999989e-05,0.025697430256974303
+Llama-3.1 + retr.,low,interaction,Tier 2-DSF,race x gender,0.0005296875,0.03949605039496051
+Llama-3.1 + retr.,low,interaction,Tier 2-DSF,race,7.656250000000002e-05,0.5661433856614339
+Llama-3.1 + retr.,low,interaction,Tier 2-DSF,gender,0.00018906250000000005,0.028497150284971504
+Llama-3.1 + retr.,supply_weeks,bias,Tier 2,race x gender,0.0014121093750000006,0.0425957404259574
+Llama-3.1 + retr.,supply_weeks,bias,Tier 2,race,0.0006855468749999965,0.06719328067193281
+Llama-3.1 + retr.,supply_weeks,bias,Tier 2,gender,0.00020664062500000077,0.16498350164983502
+Llama-3.1 + retr.,supply_weeks,bias,Tier 2-DSF,race x gender,0.0001683593749999993,0.6343365663433657
+Llama-3.1 + retr.,supply_weeks,bias,Tier 2-DSF,race,2.3046875000000267e-05,0.884011598840116
+Llama-3.1 + retr.,supply_weeks,bias,Tier 2-DSF,gender,9.76562499999889e-06,0.6557344265573443
+Llama-3.1 + retr.,supply_weeks,interaction,Tier 2-DSF,race x gender,0.0010671875,0.267973202679732
+Llama-3.1 + retr.,supply_weeks,interaction,Tier 2-DSF,race,0.0005578125000000001,0.19928007199280073
+Llama-3.1 + retr.,supply_weeks,interaction,Tier 2-DSF,gender,0.00012656250000000024,0.32766723327667235
