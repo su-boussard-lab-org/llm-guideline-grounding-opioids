@@ -92,6 +92,10 @@ order (`tier1_retr_chunk_random_order`, `tier1_retr_chunk_reverse_order`).
 
 ## Reproducing the experiments
 
+**Reproduce Analysis:**: Just run the Jupyter notebooks under the "analysis_scripts" folder.
+
+**Reproduce LLM output:** The "experiment_results" folder contains the generated LLM responses for all 8 systems across Tier-1, Tier-2, Ablation Analysis and Retrieval Sensitivity to Chunk Order experiments
+
 Run every notebook **from the `src/` folder**, top to bottom (*Run All*). Each one reads from `data/` and writes to
 `src/data-generated/<output folder>/`. If a notebook stops partway, run it again: finished output files are skipped.
 
