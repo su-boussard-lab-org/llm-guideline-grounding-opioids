@@ -47,7 +47,7 @@ order (`tier1_retr_chunk_random_order`, `tier1_retr_chunk_reverse_order`).
 │   └── clinician_feasibility_check/                     # the two clinicians' annotation forms
 ├── guideline-RAG/
 │   ├── guideline corpus/                                # guideline chunks and metadata
-│   └── RAG scripts/                                     # retrieval notebook and retrieval-run scripts
+│   └── RAG scripts/                                     # retrieval notebook and chunking scripts from raw guidelines (use "guidelinerag" virtual environment)
 ├── src/                                                 # run the experiments (notebooks)
 │   ├── tier1_openai.ipynb / tier1_ollama.ipynb
 │   ├── tier2_openai.ipynb / tier2_ollama.ipynb
@@ -72,8 +72,16 @@ order (`tier1_retr_chunk_random_order`, `tier1_retr_chunk_reverse_order`).
    ```bash
    conda env create -f dsfaudit_conda_environment.yml
    # or
-   pip install -r requirements.txt
+   pip install -r dsfaudit_pip_requirements.txt
    ```
+
+   For reproducing the guideline RAG implementation from scratch, go to the "guideline-RAG" folder.
+    ```bash
+   conda env create -f guidelinerag_conda_environment.yml
+   # or
+   pip install -r guidelinerag_pip_requirements.txt
+   ```
+
 2. **OpenAI models:** create a `.env` file in `src/` (or the repository root) containing
    ```
    OPENAI_API_KEY=sk-...
@@ -86,14 +94,15 @@ order (`tier1_retr_chunk_random_order`, `tier1_retr_chunk_reverse_order`).
    Re-running the retrieval step also needs `ollama pull qwen3-embedding:8b`.
 4. **Data:** the Q-PAIN vignettes are available on [PhysioNet](https://physionet.org/content/q-pain/1.0.0/).
    The two files the notebooks need are already in `data/`.
-5. **Reproduce Analysis:**: Just run the Jupyter notebooks under the "analysis_scripts" folder.
-6. **Reproduce LLM output:** The "experiment_results" folder contains the generated LLM responses for all 8 systems across Tier-1, Tier-2, Ablation Analysis and Retrieval Sensitivity to Chunk Order experiments
+
 ---
 
 ## Reproducing the experiments
 
 Run every notebook **from the `src/` folder**, top to bottom (*Run All*). Each one reads from `data/` and writes to
 `src/data-generated/<output folder>/`. If a notebook stops partway, run it again: finished output files are skipped.
+
+**Guideline RAG implementation**: Please go to the "guideline-RAG" folder. Run the qpain_guideline_retrieve_rag_periop_pain.ipynb notebook. If you want to reproduce even the chunking from raw guidelines, please run the chunking_periop_pain_paragraph_wise_ideal_size.ipynb file (for just the perioperative guidelines used in the paper). You can also do to for the all disease guideline corpus that we release as described in the Appendix, using the chunking_allguidelines_paragraph_wise_ideal_size.ipynb notebook.
 
 | Step | Notebook | What it does | Calls |
 |---|---|---|---|
